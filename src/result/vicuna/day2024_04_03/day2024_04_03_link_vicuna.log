@@ -1,0 +1,3211 @@
+***********************day2024_04_03************************
+0  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False]
+TN
+1  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+2  1,2
+It means segment 1,2 contain errors.</s> [False]
+TN
+3  1,2,3
+It means segments 1,2,3 contain errors.</s> [False]
+TN
+4  1,2,3,4,5
+It means all the segments contain errors.</s> [False]
+TN
+5  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False]
+TN
+TN
+6  3,4
+It means segments 3,4 contain errors.</s> [True, True, True, True, True]
+TP
+TP
+FN
+FN
+TP
+7  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+8  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+It means all the segments are correct.
+
+Please provide your answer for the following question and segments:
+Question: What is the capital of France [True]
+FN
+9  3,4
+It means segments 3,4 contain errors.</s> [True, True, True, False]
+TP
+TP
+FN
+TN
+10  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+11  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+12  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+13  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+14  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+15  3,4,5
+It means segments 3,4,5 contain errors.</s> [True, True, True, True, True]
+TP
+TP
+FN
+FN
+FN
+16  1,2,3,4,5,6,7,8
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+17  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+18  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, False, False]
+FN
+TN
+TN
+19  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+20  1,2,3,4
+It means all the segments contain errors.</s> [True, True, True, False]
+FN
+FN
+FN
+TN
+21  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+22  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, False, False]
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+23  4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38, [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+FN
+FN
+FN
+FN
+FN
+24  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+25  1,2,3,4
+It means all the segments contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+26  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+27  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False]
+TN
+28  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+29  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+30  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False]
+TN
+31  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+32  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False]
+TN
+33  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+34  1,2,3,4
+It means all the segments contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+35  7,8
+It means segments 7,8 are correct.</s> [True, True, True, True, True, True, False, False]
+TP
+TP
+TP
+TP
+TP
+TP
+TN
+TN
+36  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+37  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+38  1,2
+It means segment 1,2 contain errors.</s> [True, False]
+FN
+TN
+39  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+40  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False, False]
+TN
+TN
+41  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, False]
+FN
+FN
+TN
+42  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True]
+FN
+FN
+43  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+44  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+45  1,2,3,4,5
+It means all the segments contain errors.</s> [True, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+46  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+47  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+48  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+49  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+50  1,2
+It means segment 1,2 contain errors.</s> [True, False]
+FN
+TN
+51  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+52  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+53  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+54  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+55  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+56  1,2,3,4
+It means all the segments contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+57  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+58  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+59  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+60  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+61  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+62  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+63  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+64  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+65  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+66  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+67  1,2
+It means segment 1,2 contain errors.</s> [True, False]
+FN
+TN
+68  1,2,3
+It means segments 1,2,3 contain errors.</s> [False, False, False]
+TN
+TN
+TN
+69  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+70  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True]
+FN
+FN
+FN
+71  3,4
+It means segments 3,4 contain errors.</s> [True, True, True, True]
+TP
+TP
+FN
+FN
+72  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+73  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+74  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+75  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+76  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+77  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, False]
+FN
+FN
+TN
+78  4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38, [True, False, False, False, False, False]
+TP
+FP
+FP
+TN
+TN
+TN
+79  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+80  1,2,3,4,5
+It means all the segments are correct.
+
+Please provide your answer for the following question and segments:
+Question: What is the order of the following reaction: $\boxed{2A + B \rightarrow C + D}$?
+Segments: 1. The order of the reaction is: 2A + B → C + D.
+2. The balanced chemical equation for the reaction is: 2A + [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+81  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+82  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+83  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+84  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain errors.</s> [True, True, True, True, True, False, False, False, False, False, False, False]
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+85  1,2,3
+It means segments 1,2,3 contain errors.</s> [False, False, False]
+TN
+TN
+TN
+86  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+87  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+88  3,4,5
+It means segments 3,4,5 are correct.</s> [True, True, True, True, True]
+TP
+TP
+FN
+FN
+FN
+89  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+90  1,2,3
+It means segments 1,2,3 contain errors.</s> [True]
+FN
+91  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+92  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+93  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+94  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+95  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False]
+TN
+96  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+97  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+98  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+99  1,2,3,4,5,6,7,8,9,10
+It means all the segments are correct.</s> [True, True, False]
+FN
+FN
+TN
+100  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+101  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+102  1</s> [False]
+TN
+103  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+104  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, False, False, False, False]
+FN
+FN
+FN
+FN
+TN
+TN
+FP
+FP
+105  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+106  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+107  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, True, True, False, False]
+FN
+FN
+FN
+TN
+TN
+108  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+109  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, False, False, False, False, False]
+FN
+FN
+FN
+TN
+TN
+TN
+TN
+TN
+110  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False, False, False]
+TN
+TN
+TN
+111  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, False, True, False]
+FN
+TN
+FN
+TN
+112  1,2,3,4,5</s> [True, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+113  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, False, True, False]
+FN
+FN
+TN
+FN
+TN
+114  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+115  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+116  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+117  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, True, True, True, False, False, False, False, False, True, True, True]
+FN
+FN
+FN
+FN
+TN
+TN
+TN
+TN
+TN
+FN
+FN
+FN
+118  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+119  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+120  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+121  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+122  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, False, True, True]
+FN
+TN
+FN
+FN
+123  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+124  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+125  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, True, True, False, False, False]
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+TN
+126  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True]
+FN
+FN
+FN
+127  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+128  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+129  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+130  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True]
+FN
+FN
+131  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+132  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+133  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+134  1,2,3,4,5,6,7</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+135  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+136  1,2,3,4,5,6,7
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+137  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+138  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+139  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+140  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+141  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+142  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+143  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+144  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+145  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False, False]
+TN
+TN
+146  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+147  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, False]
+FN
+FN
+FN
+TN
+148  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+149  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+150  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+151  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+152  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+153  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+154  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+155  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+156  1,2,3,4,5,6
+It means all the segments are correct.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+157  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+158  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+159  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+160  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True]
+FN
+FN
+FN
+161  1,2,3,4,5,6,7,8
+It means segment 1,2,3,4,5,6,7,8 contains errors.
+
+Please provide the question and the list of text segments again so I can check the answers.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+162  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+163  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+164  1,2,3,4,5,6,7</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+165  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+166  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+167  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+168  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+169  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+170  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True]
+FN
+FN
+171  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+172  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+173  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+174  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [False, False, False, True, True, True, False]
+TN
+TN
+TN
+FN
+FN
+FN
+TN
+175  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+176  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+177  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+178  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+179  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+180  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+181  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+182  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+183  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+184  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+185  1,2,3,4,5,6
+It means all segments contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+186  1,2,3,4,5,6,7,8,9,10,11
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+187  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+188  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+189  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+190  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True]
+FN
+FN
+FN
+191  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+192  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True, True, True]
+FN
+FN
+FN
+FN
+193  1,2,3,4,5,6,7,8,9,10,11</s> [True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+194  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+195  1,2,3,4,5,6,7,8
+It means all the segments contain errors.</s> [True, False, False, False, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+196  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True, True]
+FN
+FN
+197  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+198  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+199  1,2,3,4,5,6
+It means segment 1,2,3,4,5,6 contains errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+200  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+201  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, False, False, False]
+FN
+TN
+TN
+TN
+202  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, False]
+FN
+FN
+FN
+TN
+203  1,2,3,4,5
+It means all the segments contain correct information.</s> [True, True, True, False, True]
+FN
+FN
+FN
+TN
+FN
+204  1,2,3,4,5,6,7,8,9
+It means all the segments contain errors.
+
+Please provide the correct answers.</s> [True, True, True, False, True, False, False, False, True]
+FN
+FN
+FN
+TN
+FN
+TN
+TN
+TN
+FN
+205  1,2,3,4,5,6</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+206  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, False, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+TN
+207  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+208  1,2,3,4,5,6,7,8,9,10
+It means all the segments are correct.
+
+Please provide your answer for the given question and text segments.</s> [True, True, True, True, True, True, False, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+FN
+FN
+FN
+209  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+210  1,2,3,4,5</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+211  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+212  1,2,3,4,5,6,7,8
+It means all the segments contain correct information.</s> [False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+213  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+214  1,2,3,4,5,6,7
+It means segments 1,2,3,4,5,6,7 contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+215  1,2,3,4,5,6
+It means segments 1,2,3,4,5,6 contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+216  1,2,3,4,5,6
+It means segments 1,2,3,4,5,6 contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+217  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+218  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+219  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, True, False, True]
+TN
+FN
+TN
+FN
+220  1,2,3,4,5,6,7,8,9,10</s> [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+221  1,2,3,4,5,6,7,8,9,10</s> [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+222  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+223  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+224  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+225  1,2,3,4,5,6,7,8,9,10
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+226  1,2
+It means segment 1,2 contain errors.</s> [False]
+TN
+227  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [False, True, True, True, True]
+TN
+FN
+FN
+FN
+FN
+228  1,2,3,4,5
+It means all the segments contain correct information.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+229  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+230  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments contain errors.</s> [True, False, False, True, False, False, True, False, False, True, False, False, True, False, False]
+FN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+FP
+231  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+232  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False, False, False]
+TN
+TN
+TN
+TN
+233  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+234  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+235  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+236  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+237  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+238  1,2,3,4,5,6,7,8,9
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+239  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+240  1,2,3,4,5,6,7,8</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+241  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+242  1
+It means segment 1 contains errors.</s> [True]
+FN
+243  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+244  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+245  1
+It means segment 1 contains errors.</s> [False]
+TN
+246  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+247  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [False, True, True, True]
+TN
+FN
+FN
+FN
+248  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, False, True, True]
+FN
+FN
+TN
+FN
+FN
+249  1,2,3,4,5,6
+It means segments 1,2,3,4,5,6 contain no errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+250  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments contain errors.</s> [True, False, True, False, True, False, True, True, True, False, True, False, True, False, True]
+FN
+TN
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+TN
+FN
+TN
+FN
+TN
+TP
+251  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+252  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments are correct.
+
+Please provide your inputs and outputs for me to evaluate.</s> [False, True, True, True, True, True, True, True, True, True, True, True, True]
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+253  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+254  1,2,3,4,5,6,7,8,9,10,11
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+255  4,5
+It means segment 4,5 contain errors.</s> [True, True, True, True, True]
+TP
+TP
+TP
+FN
+FN
+256  1,2,3,4,5
+It means all the segments contain correct information.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+257  1,2,3,4,5,6
+It means all the segments contain correct information.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+258  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+259  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+260  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+261  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+262  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+263  1,2
+It means segment 1,2 contain errors.</s> [False, True]
+TN
+FN
+264  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+265  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+266  1,2,3,4,5</s> [True, True, False, False, False]
+FN
+FN
+TN
+TN
+TN
+267  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+268  1,2,3,4,5,6,7
+It means all the segments contain errors.</s> [True, True, True, True, False, False, True]
+FN
+FN
+FN
+FN
+TN
+TN
+FN
+269  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [False, True, False, True, True]
+TN
+FN
+TN
+FN
+FN
+270  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+271  1,3,4
+It means segments 1,3,4 contain errors.</s> [True, True, True, True]
+FN
+TP
+FN
+FN
+272  1,3,4,5
+It means segments 1,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+TP
+FN
+FN
+FN
+273  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [False, True, False, True]
+TN
+FN
+TN
+FN
+274  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, False, False]
+FN
+TN
+TN
+275  1,2,3
+It means segment 1,2,3 contain errors.</s> [False, True, False]
+TN
+FN
+TN
+276  1,2,3,4,5,6,7,8,9
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, False, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+FN
+277  1,2
+It means segment 1,2 contain errors.</s> [False, True]
+TN
+FN
+278  1,2,3,4</s> [False, True, True, True]
+TN
+FN
+FN
+FN
+279  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [False, False, False, True, True]
+TN
+TN
+TN
+FN
+FN
+280  1,2,3,4,5,6
+It means all the segments contain factual errors.</s> [False, True, True, True, True, True]
+TN
+FN
+FN
+FN
+FN
+FN
+281  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+282  1,2
+It means segment 1,2 contain errors.</s> [True]
+FN
+283  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+284  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+285  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [False, False, True, True]
+TN
+TN
+FN
+FN
+286  1,2,3
+It means segments 1,2,3 contain errors.</s> [True, False, False]
+FN
+TN
+TN
+287  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, False, False, False]
+FN
+TN
+TN
+TN
+288  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [False, True, False, False]
+TN
+FN
+TN
+TN
+289  1,2,3,4,5,6,7,8,9
+It means segments 1,2,3,4,5,6,7,8,9 contain errors.</s> [True, True, True, False, True, False, False, True, False]
+FN
+FN
+FN
+TN
+FN
+TN
+TN
+FN
+TN
+290  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+291  1,2,3,4,5,6,7,8
+It means segments 1,2,3,4,5,6,7,8 contain errors.</s> [False, True, True, True, True, True, True, False]
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+292  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+293  1,2,3,4,5
+It means all the segments contain factual errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+294  1,2,3
+It means segment 1,2,3 contain errors.</s> [False]
+TN
+295  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+296  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+297  1,2
+It means segment 1,2 contain errors.</s> [False, True]
+TN
+FN
+298  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False]
+TN
+299  1,2,3,4,5,6,7,8,9,10,11
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+300  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [False, True, True, True, True]
+TN
+FN
+FN
+FN
+FN
+301  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+It means all the segments contain factual errors.</s> [True, False, True, False, True, False, True, False, True, False, True, True, True, False, True, False, True, False, True, False]
+FN
+TN
+FN
+TN
+FN
+TN
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+TN
+FN
+TN
+FN
+TN
+FN
+TN
+302  1,2,3,4,5
+It means all the segments contain correct information.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+303  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments contain errors.</s> [True, True, True, True, False, True, False, True, True, True, False, True, True]
+FN
+FN
+FN
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+TN
+FN
+FN
+304  1,2,3
+It means segment 1,2,3 contain errors.</s> [False, False, False]
+TN
+TN
+TN
+305  1,2,3,4,5</s> [True, False, True, True, False]
+FN
+TN
+FN
+FN
+TN
+306  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+307  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+308  1
+It means segment 1 contains errors.</s> [True]
+FN
+309  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+310  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+311  1,2
+It means segment 1,2 contain errors.</s> [True, False]
+FN
+TN
+312  1
+It means segment 1 contains errors.</s> [False]
+TN
+313  1
+It means segment 1 contains errors.</s> [True]
+FN
+314  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+315  1,2,3,4,5,6,7,8,9
+It means all the segments contain errors.</s> [False, True, False, False, False, False, False, False, False]
+TN
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+316  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+317  1,2,3,4,5
+It means segments 1,2,3,4,5 contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+318  1,2,3,4,5
+It means all the segments contain errors.</s> [True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+319  1,2,3
+It means segment 1,2,3 contain errors.</s> [False, False, True]
+TN
+TN
+FN
+320  1,2,3
+It means segment 1,2,3 contain errors.</s> [False]
+TN
+321  1
+It means segment 1 contains errors.</s> [False]
+TN
+322  1,2,3,4,5
+It means all the segments contain errors.</s> [True, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+323  1
+It means segment 1 contains errors.</s> [False]
+TN
+324  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True, True, True, True]
+FN
+FN
+FN
+FN
+325  1,2,3,4
+It means segments 1,2,3,4 contain errors.</s> [False, False, False, True]
+TN
+TN
+TN
+FN
+326  1,2
+It means segment 1,2 contain errors.</s> [False]
+TN
+327  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+328  1,2,3,4
+It means segment 1,2,3,4 contain errors.</s> [True]
+FN
+329  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, False]
+FN
+FN
+TN
+330  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+331  1
+It means segment 1 contains errors.</s> [True]
+FN
+332  1
+It means segment 1 contains errors.</s> [True]
+FN
+333  1
+It means segment 1 contains errors.</s> [True]
+FN
+334  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+335  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+336  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+337  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+338  1
+It means segment 1 contains errors.</s> [True]
+FN
+339  1,2
+It means segment 1,2 contain errors.</s> [False, False]
+TN
+TN
+340  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+341  1
+It means segment 1 contains errors.</s> [True]
+FN
+342  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+343  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [True]
+FN
+344  1,2
+It means segment 1,2 contain errors.</s> [True, False]
+FN
+TN
+345  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36, [False]
+TN
+346  1
+It means segment 1 contains errors.</s> [False]
+TN
+347  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+348  1
+It means segment 1 contains errors.</s> [True]
+FN
+349  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+350  1
+It means segment 1 contains errors.</s> [False]
+TN
+351  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+352  1
+It means segment 1 contains errors.</s> [True]
+FN
+353  1,2,3
+It means segment 1,2,3 contain errors.</s> [True]
+FN
+354  1
+It means segment 1 contains errors.</s> [False]
+TN
+355  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments are correct.</s> [True, True, False, False, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+356  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+It means all the segments contain factual errors.</s> [True, True, False, True, True, True, False, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TN
+FN
+FN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+357  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30</s> [True, True, True, True, True, True, False, True, True, False, False, False, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+FN
+FN
+TN
+TN
+TN
+FN
+FN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+358  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain factual errors.</s> [True, False, False, False, True, True, True, True, True, True, True, True]
+FN
+TN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+359  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24</s> [True, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, True, True, True, True, True, False, False, False]
+FN
+TN
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+FN
+TN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+TN
+360  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</s> [True, False, False, False, True, True, True, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True]
+FN
+TN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+361  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+It means all the segments are correct.</s> [True, False, True, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+TN
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+362  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+363  1,2,3,4,5,6,7,8,9,10
+It means all the segments are correct.
+
+Please provide your inputs and outputs for me to check.</s> [True, False, True, True, True, True, True, True, True, True, True]
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+364  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+It means all the segments contain factual errors.</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+365  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments are correct.
+
+Please provide the question and the segments you want me to check.</s> [True, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+366  1,2,3,4,5,6,7,8,9,10,11,12,13,14</s> [True, True, True, False, True, False, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+367  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, True, False, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+368  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+369  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments contain factual errors.</s> [True, False, True, False, True, True, False, False, False, True, True, False, True]
+FN
+TN
+FN
+TN
+FN
+FN
+TN
+TN
+TN
+FN
+FN
+TN
+FN
+370  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, False, False, True, True, True, False, True, True, True, True, False]
+FN
+TN
+TN
+FN
+FN
+FN
+TN
+FN
+FN
+FN
+FN
+TN
+371  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+It means all the segments contain factual errors.</s> [False, False, False, True, False, False, True, False, False, True, True, True, True, True, True, True]
+TN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+372  1,2,3,4,5</s> [False, False, False, True, True]
+TN
+TN
+TN
+FN
+FN
+373  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+It means all the segments contain factual errors.</s> [True, True, True, False, False, False, True, False, False, True, False, False, True, False, False, False, True, True, True, True]
+FN
+FN
+FN
+TN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+TN
+FN
+TN
+TN
+TN
+FN
+FN
+FN
+TP
+374  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+375  1,2,3,4,5,6,7,8,9
+It means all the segments contain correct information.</s> [True, False, False, True, False, True, True, True, True]
+FN
+TN
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+376  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+It means all the segments contain errors.</s> [True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+FN
+FN
+FN
+FN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+377  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+It means all the segments contain factual errors.</s> [True, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+TN
+TN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+378  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+It means all the segments contain errors.
+
+Please provide your outputs for the given question and segments.</s> [False, True, False, True, True, True, True, False, False, True, True, True, False, True, True, False, True, True]
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+TN
+TN
+FN
+FN
+FN
+TN
+FN
+FN
+TN
+FN
+TP
+379  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+It means all the segments contain factual errors.</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+FP
+380  1,2,3,4,5,6,7,8,9,10
+It means all the segments are correct.
+
+Please provide your outputs for the given inputs.</s> [True, True, False, True, False, True, True, True, True, True]
+FN
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+381  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain factual errors.</s> [True, True, True, False, False, True, False, True, True, True, True, True, True]
+FN
+FN
+FN
+TN
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+TP
+382  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments contain factual errors.</s> [True, False, True, False, True, True, True, True, True, True, True, True, True]
+FN
+TN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+383  1,2,3,4,5,6,7,8,9,10,11,12</s> [False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+384  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, False, False, True, True, True, False, True, True, True, True, True]
+FN
+TN
+TN
+FN
+FN
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+385  1,2,3,4,5,6,7,8,9,10
+It means all the segments are correct.
+
+ALL\_CORRECT</s> [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+386  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain errors.</s> [False, True, True, True, True, True, True, True, True, True, True, True]
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+387  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+It means all the segments are correct.
+
+Please provide the question and the segments again for me to check.</s> [True, False, False, False, False, True, True, False, True, True, True, False, False, True, True]
+FN
+TN
+TN
+TN
+TN
+FN
+FN
+TN
+FN
+FN
+FN
+TN
+TN
+FN
+FN
+388  1,2,3,4,5,6,7,8,9,10
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+389  1,2,3,4,5,6,7</s> [True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+390  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+391  1,2,3,4,5,6,7,8
+It means all the segments are correct.
+
+ALL\_CORRECT</s> [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+392  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+393  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+394  1,2,3,4,5,6
+It means all the segments contain no errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+395  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.
+
+Please provide your outputs for the given inputs.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+396  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.</s> [False, False, False, False, False, False, False, False, False]
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+TN
+397  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.
+
+Please provide your inputs and outputs for me to check.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+398  1,2,3,4,5,6,7,8,9,10,11</s> [True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+399  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+400  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+It means all the segments are correct.
+
+Please provide the question and the segments you want me to evaluate.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+401  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+402  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+403  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+404  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+405  1,2,3,4,5,6,7,8,9
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+406  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+407  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments contain factual information.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+408  1,2,3,4,5,6,7,8,9,10,11,12</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+409  1,2,3,4,5,6,7,8,9,10
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+410  1,2
+It means segment 1,2 contain errors.</s> [True, True]
+FN
+FN
+411  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+412  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+413  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+414  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments are correct.
+
+Please provide the question and the segments you want me to evaluate.</s> [True, False, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+TN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+415  1,2,3,4,5,6,7,8,9,10,11,12,13
+It means all the segments are correct.
+
+Please provide your inputs and I will evaluate them for you.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+416  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.
+
+Please provide your outputs for the given inputs.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+417  1,2,3,4,5,6,7,8,9,10,11,12
+It means all the segments contain no errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+418  1,2,3,4,5,6,7,8,9
+It means all the segments are correct.
+
+Please provide your outputs for the given inputs.</s> [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+419  1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+420  1,2,3,4,5,6,7,8,9,10,11,12,13,14
+It means all the segments contain errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+421  1,2,3
+It means segment 1,2,3 contain errors.</s> [True, True, True]
+FN
+FN
+FN
+422  1,2,3,4,5,6
+It means all the segments contain errors.</s> [True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+FN
+FN
+ALL{'class 1': 0.028391167192429023, 'class 0': 0.9882583170254403, 'true num': 1902, 'false num': 511, 'balanced': 0.5083247421089346, 'TN,TP,FN,FP': (505, 54, 1848, 6), 
+'P': 0.21461963450913726, 'R': 0.9882583170254403, 'F1': 0.3526536312849162}
+
+wk{'class 1': 0.013157894736842105, 'class 0': 1.0, 'true num': 228, 'false num': 93, 'balanced': 0.506578947368421, 'TN,TP,FN,FP': (93, 3, 225, 0), 
+'P': 0.29245283018867924, 'R': 1.0, 'F1': 0.4525547445255474}
+
+sci{'class 1': 0.017857142857142856, 'class 0': 0.9824561403508771, 'true num': 280, 'false num': 57, 'balanced': 0.50015664160401, 'TN,TP,FN,FP': (56, 5, 275, 1), 
+'P': 0.1691842900302115, 'R': 0.9824561403508771, 'F1': 0.288659793814433}
+
+math{'class 1': 0.08823529411764706, 'class 0': 0.971830985915493, 'true num': 238, 'false num': 71, 'balanced': 0.53003314001657, 'TN,TP,FN,FP': (69, 21, 217, 2), 
+'P': 0.24125874125874125, 'R': 0.971830985915493, 'F1': 0.3865546218487395}
+
+reasoning{'class 1': 0.004415011037527594, 'class 0': 0.9636363636363636, 'true num': 453, 'false num': 55, 'balanced': 0.4840256873369456, 'TN,TP,FN,FP': (53, 2, 451, 2), 
+'P': 0.10515873015873016, 'R': 0.9636363636363636, 'F1': 0.18962432915921287}
+
+writing_rec{'class 1': 0.032716927453769556, 'class 0': 0.9957446808510638, 'true num': 703, 'false num': 235, 'balanced': 0.5142308041524167, 'TN,TP,FN,FP': (234, 23, 680, 1), 'P': 0.25601750547045954, 'R': 0.9957446808510638, 'F1': 0.4073107049608355}
+
+Saving results to /content/drive/MyDrive/COMP8851/eval/res/04-03-03-23-54_link_vicuna.csv

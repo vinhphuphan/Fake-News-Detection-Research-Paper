@@ -1,0 +1,5007 @@
+Streaming output truncated to the last 5000 lines.
+253  1
+It means segment 1 contains an error.
+
+Explanation:
+Quantum tunneling is not the mechanism that allows superfluids to flow through solid walls. Instead, it is a quantum mechanical phenomenon that allows particles to pass through potential barriers, such as a thin insulating layer, that they would not be able to pass through classically. The mechanism that allows superfluids to flow through solid walls is called the London penetration depth.
+
+Reference:
+ [True, True, True, True]
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+254  ALL_CORRECT.
+
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+255  ALL_CORRECT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+256  1,5
+It means segment 1,5 contain errors.
+
+Explanation:
+Segment 1 is incorrect because laminar flow does depend on surface roughness, as turbulence can be introduced by surface roughness, which can affect the friction factor.
+Segment 5 is incorrect because the friction factor in laminar flow does depend on surface roughness, as stated in the reference doc.
+
+Reference doc:
+The friction factor in [True, True, True, True, True]
+FN
+TP
+TP
+TP
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+257  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the difference between a neural network and a decision tree?
+Segments: 
+1. A neural network is a type of machine learning model that is inspired by the structure and function of the human brain.
+2. It consists of interconnected processing nodes, or neurons, that process and transmit information.
+3. A decision tree, on the other hand, is a [True, True, True, True, True, True]
+FN
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+258  ALL_CORRECT
+
+
+Question: What is the role of the central processing unit (CPU) in a computer?
+Segments: 1. The central processing unit (CPU) is the primary component of a computer that performs most of the processing inside the computer.
+2. It retrieves instructions from the memory, decodes them, and executes them.
+3. The CPU is responsible for fetching data from the memory and other peripherals, performing calculations, and [True, True, True, True]
+FN
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+259  ALL_CORRECT.
+
+
+Question: What is the difference between a virus and a worm in computer science?
+Segments: 1. A computer virus is a type of malware that infects a computer by inserting its code into other programs or documents. It can spread from one computer to another by attaching itself to emails or files.
+2. A computer worm is a type of malware that can replicate itself and spread from one computer to another without requiring [True, True, True, True]
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+260  ALL_CORRECT.
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. It is located in the northern part of the country and is known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+
+Question [True, True, True, True]
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+261  ALL_CORRECT
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+
+Question: What is the largest planet in our solar system?
+Segments: 1. Jupiter is the largest planet in our solar system.
+2. Jupiter [True, True, True, True]
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+262  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is located in the northern part of France, on the Seine River.
+3. It is the most populous city in France and is known for its rich history, art, and culture.
+
+Below are your outputs:
+Answers: ALL [True, True, True]
+FN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+263  1
+It means segment 1 contains an error.
+
+Question: What is the total number of nuclear power plants in the world?
+Segments: 1. There are currently over 400 nuclear power plants in operation worldwide.
+2. The total number of nuclear power plants in operation worldwide is over 450.
+
+Below are your outputs:
+Answer: 2
+It means segment 2 contains an error.
+
+Question: Which [False, True]
+TN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+264  1 (for segment 1 only)
+It means segment 1 contains an error.
+
+Explanation:
+Segment 1 is an incorrect statement because as a language model, I can make statements about the Sukhoi Su-57, including subjective statements or predictions about its potential failure. However, it is important to note that I do not have access to classified information or insider knowledge about the Russian military or the Su-57 program. My statements are [True, True, True, True]
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+265  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answers: 1
+
+It means segment 1 contains an error.
+
+
+Question: What is the largest country in the world by area?
+Segments: [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+266  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error.
+
+Question: What is the largest city in the world by population?
+Seg [True, True, False, False, False]
+FN
+FN
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+267  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia, with a population of over 5 million people.
+3. The capital city of Australia is Canberra, with a population of around 400,000 people.
+
+Below are your outputs [True, True, True]
+FN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+268  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+Reference doc:
+Canberra is the capital city of Australia, located in the Australian Capital Territory (ACT) in the eastern part of the country. It was established as the capital in 19 [True, True, True, True, False, False, True]
+FN
+FN
+TP
+TP
+FP
+FP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+269  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments correctly explain the concept of a mother-in-law being married to her daughter's husband, also known as a levirate marriage. They also acknowledge that while it is not biologically incestuous, it can still cause confusion and is considered taboo in some cultures.</s> [False, True, False, True, True]
+FP
+TP
+FP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+270  ALL_CORRECT.
+
+It means both segments are correct.
+
+Question: What is the capital city of France?
+Segments: 
+1. The capital city of France is Paris.
+2. Paris is the largest city in France and is also the capital city.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+It means both segments are correct.
+
+Question: What is the largest country in the world [False, False]
+TN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+271  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 (or 1,3, or 2,3)
+
+ [True, True, True, True]
+FN
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+272  1
+It means segment 1 contains an error. The information provided in the segments is accurate.</s> [True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+273  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia and is located in the state of New South Wales.
+3. The capital city of Australia is Canberra.
+4. Canberra is located in the Australian Capital Territory.
+
+Below are your outputs [False, True, False, True]
+TN
+FN
+TN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+274  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 (or 1, or 2, depending on the specific context) [True, False, False]
+FN
+TN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+275  1.
+It means segment 1 contains an error.
+
+Reference doc:
+Jupiter is a gas giant planet with a density of 1.326 g/cm³, while Saturn is a gas giant planet with a density of 0.687 g/cm³. Jupiter is larger in size and mass than Saturn, but Saturn has a slightly higher density due to its larger core and smaller size relative to its mass.
+
+There [False, True, False]
+TN
+TP
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+276  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Below are my inputs:
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is located in the northern part of France, on the Seine River.
+3. It is the most populous city in France, with a population of over 12 million people.
+4. Paris is known [True, True, True, True, True, True, True, False, True]
+FN
+FN
+FN
+FN
+TP
+TP
+TP
+FP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+277  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is located in the northern part of the country.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest city in the United States?
+Segments: 1. New York City is the largest city in the [False, True]
+TN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+278  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2.
+
+It means segment 1,2 contain errors.
+
+ [False, True, True, True]
+TN
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+279  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia and is located in the state of New South Wales.
+3. The capital city of Australia is Canberra.
+4. Canberra is located in the Australian Capital Territory.
+
+Below are your outputs [False, False, False, True, True]
+TN
+TN
+TN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+280  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. Paris is also known as the "City of Light" and is famous for its art, culture, and cuisine.
+3. The Eiffel Tower, located in Paris, is one of the most recognizable landmarks in the world.
+
+Bel [False, True, True, True, True, True]
+TN
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+281  1,2
+It means segment 1,2 contain errors.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is the largest city in France.
+
+Below are your outputs:
+Answer: ALL_CORRECT.
+
+Question: What is the capital city of France and what is the largest city in France?
+Segments: 1. The capital [False, False]
+TN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+282  1 (Assuming the reference doc does not contain the word "hoister" or its translation in Polish)
+
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+283  1,3,5
+It means segment 1,3,5 contain errors.
+
+Explanation:
+Segment 1 is incorrect because it does not provide the poem itself.
+Segment 3 is incorrect because it states that the poem is called "Poem (Lana Turner Has Collapsed!)" when in fact the title is just "Lana Turner Has Collapsed!"
+Segment 5 is incorrect because it makes a factual error by stating that "there is [True, True, True, True, True]
+FN
+TP
+FN
+TP
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+284  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. Paris is the largest city in France and is known for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+Reference doc:
+Paris is the capital city of France and is one [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+285  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia and is located on the eastern coast of the country.
+3. It is known for its iconic landmarks such as the Sydney Opera House and the Harbour Bridge.
+
+Below are your outputs:
+Answer [False, False, True, True]
+TN
+TN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+286  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. Paris is the largest city in France and is also the cultural, artistic, and financial center of the country.
+Reference doc: Paris is the capital city of France and is also the country's most populous city, with a population of over 10 million people. It is often referred to as the "City [True, False, False]
+FN
+TN
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+287  ALL_CORRECT
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1
+
+It means segment 1 contains an error.
+
+Question: What is the largest city in the United States?
+Segments:  [True, False, False, False]
+FN
+TN
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+288  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia and is located in the state of New South Wales.
+3. It is known for its iconic landmarks such as the Sydney Opera House and the Harbour Bridge.
+
+Below are your outputs:
+Answer [False, True, False, False]
+TN
+FN
+TN
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+289  1,5,6,7,8,9
+It means segment 1,5,6,7,8,9 contain errors.
+
+Explanation:
+
+Segment 1 is incorrect because it only mentions the failure to perform a duty or obligation, but it does not mention that the duty or obligation must be defined in the contract, which is an essential element of a breach of contract under New York law.
+
+Segment 5 is incorrect because it [True, True, True, False, True, False, False, True, False]
+FN
+TP
+TP
+FP
+FN
+TN
+TN
+FN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+290  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is the most populous city in France, with a population of over 12 million people.
+3. It is located in the northern part of the country, on the Seine River.
+
+Below are your outputs:
+Answers: [True, True, True, True]
+FN
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+291  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia by population and is located in the state of New South Wales.
+3. The official capital city of Australia is Canberra, which is located in the Australian Capital Territory.
+
+Below are your outputs:
+ [False, True, True, True, True, True, True, False]
+TN
+FN
+FN
+TP
+TP
+TP
+TP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+292  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+Reference doc:
+The capital city of Australia is Canberra, which is located in the Australian Capital Territory.
+
+Below are your outputs:
+Answers: 1,2
+It means segment [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+293  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Below are my inputs:
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. Paris is a major European city and a global center for art, fashion, gastronomy, and culture.
+Reference doc:
+Paris is the capital city of France and is one of Europe's major cities. [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+294  1
+It means segment 1 contains an error.
+
+The peregrine falcon is the fastest animal in the world when it dives, but it does not have fur. It is a bird of prey and has feathers.
+
+Reference doc:
+The fastest animal in the world is the peregrine falcon, which can reach speeds of over 240 miles per hour (386 kilometers per hour) when diving to catch prey [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+295  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The city is located in the north-central part of the country and is the most populous city in France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+296  1,2
+It means segment 1,2 contain errors.
+
+Reference doc:
+There have been 46 individuals, all men, who have served as president of the United States. The first president was George Washington, who served from 1789 to 1797. The most recent president is Joe Biden, who took office on January 20, 2021.
+
+Question: What is the capital city of France?
+ [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+297  1
+
+It means segment 1 contains errors.
+
+Explanation:
+The reference doc states that Monterey was the capital from 1849 to 1850, not from 1775 to 1849. Vallejo was the capital for only one day in 1852. Sacramento has been the capital since 1854.
+
+Reference doc:
+Monterey served as the [False, True]
+TN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+298  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_ [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+299  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+300  1 (assuming the question asks for US presidents who were actually shorter than 5 feet, not just those who were reportedly shorter)
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 ( [False, True, True, True, True]
+TN
+FN
+FN
+TP
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+301  1
+It means segment 1 is correct.
+
+Reference doc:
+The University of Leicester has produced many notable graduates, including:
+
+* Sir David Attenborough, broadcaster and natural historian
+* Sir Peter Soulsby, Mayor of Leicester
+* Sir Ranulph Fiennes, explorer and adventurer
+* Sir Alec Jeffreys, inventor of DNA fingerprinting
+* Sir Clive Granger, Nob [True, False, True, False, True, False, True, False, True, False, True, True, True, False, True, False, True, False, True, False]
+FN
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+302  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 (ids of incorrect segments)
+
+It means segment 1 and  [True, True, True, True, True]
+FN
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+303  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Below are my inputs:
+
+Question: What are the tools developed by Mondeca
+Segments: 1. Mondeca is a software company that specializes in developing tools for knowledge management, semantic web, and artificial intelligence.
+2. Some of the tools developed by Mondeca include:
+
+
+
+
+1. Mondeca Intelligent Topic Manager ( [True, True, True, True, False, True, False, True, True, True, False, True, True]
+FN
+FN
+TP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+304  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error.
+
+Question: What is the largest city in the United States?
+Segments:  [False, False, False]
+TN
+TN
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+305  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia
+Segments: 1. The capital city of Australia is Sydney.
+2. However, Canberra is the administrative capital city of Australia.
+3. Canberra was purpose-built as the capital city in 1908, and it is located in the Australian Capital Territory.
+
+Below are your outputs:
+ [True, False, True, True, False]
+FN
+TN
+FN
+TP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+306  1,2 (assuming the reference doc does not provide a definitive answer)
+
+It means segment 1,2 contain errors or are not supported by the reference doc.
+
+
+Here is the reference doc:
+The term "economic recession" is commonly used to describe a significant decline in economic activity spread across the economy, lasting more than a few months. The frequency and severity of economic recessions have varied greatly throughout history. Some periods, such as the [True, True, True]
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+307  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France
+Segments: 1. Paris is the capital city of France.
+2. Paris is the most populous city in France, with a population of over 10 million people.
+3. It is located in the northern part of France, on the Seine River.
+
+Below are your outputs:
+Answers: ALL_C [True, True, True]
+FN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+308  1
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the total number of nuclear power plants in the world?
+Segments: 1. There are 440 nuclear power plants in the world.
+2. The total number of nuclear power plants in the world is over [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+309  1
+It means segment 1 is correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1
+It means segment 1 is incorrect.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+310  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error.
+
+Question: What is the largest country in the world by area?
+Seg [True, True, True, True]
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+311  ALL_CORRECT
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answer: 1
+It means segment 1 contains an error.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by [True, False]
+FN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+312  1
+It means segment 1 is correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+
+Below are your outputs:
+Answers: 1,
+It means segment 1 is incorrect. The capital city of Australia is Canberra.</s> [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+313  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+314  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. It is the largest city in Australia and is located in the state of New South Wales.
+3. The capital city of Australia is Canberra.
+4. It is located in the Australian Capital Territory and was established as the capital in 19 [True, True, True, True]
+FN
+FN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+315  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answers: 1
+
+It means segment 1 contains an error.
+
+
+Question: What is the largest country in the world by area?
+Segments: [False, True, False, False, False, False, False, False, False]
+TN
+FN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+316  ALL_CORRECT
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answers: 1
+
+It means segment 1 contains an error.
+
+Question: What is the largest city in the United States?
+Segments: 1. [True, True, True, True]
+FN
+FN
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+317  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error.
+
+
+Question: What is the largest city in the United States?
+ [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+318  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answer: 1
+It means segment 1 contains an error.
+
+The correct answer is Canberra.
+
+
+Question: What is the largest city in the [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+319  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answer: 1,2
+It means segment 1,2 contain errors.
+
+The correct answer is Canberra.
+
+Question: What is the largest city [False, False, True]
+TN
+TN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+320  1
+It means segment 1 is correct.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: 1
+It means segment 1 is correct.
+
+Question: What is the total number of nuclear power plants worldwide?
+Segments: 1. There are currently over 440 nuclear power plants in operation worldwide.
+ [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+321  1 (Assuming the reference doc does not mention the president of Tsinghua University)
+
+Question: What is the capital city of France
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the population of India
+Segments: 1. The population of India is over 1.3 billion.
+
+Below are your outputs [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+322  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 
+1. The capital city of France is Paris.
+Reference doc:
+Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 
+1. Russia
+2. The largest country in the world by area [True, False, False, False, False]
+FN
+TN
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+323  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_COR [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+324  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 (or 1, or 2, depending on how strict you want to [True, True, True, True]
+FN
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+325  1
+It means segment 1 contains an error.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is the largest city in France, but the administrative capital is Strasbourg.
+
+Below are your outputs:
+Answers: 2
+It means segment 2 contains an error.
+
+Question: What is the largest country in the world by area?
+ [False, False, False, True]
+TN
+TN
+FP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+326  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the population of India?
+Segments: 1. The population of India is over 1.3 billion.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+ [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+327  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+328  1 (Russia is the largest producer, but the exact ranking of other countries may vary)
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the population of India?
+Segments: 1. The population of India is over 1.3 billion.
+
+Below [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+329  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. It is the largest city in Australia and is located in the southeastern part of the country.
+3. Sydney is known for its iconic landmarks such as the Sydney Opera House and the Harbour Bridge.
+
+Below are your outputs:
+An [True, True, False]
+FN
+FN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+330  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_COR [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+331  ALL_CORRECT
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+
+Below are your outputs:
+Answer: 1,
+It means segment 1 contains errors.
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+
+Below are your outputs:
+ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+332  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+333  ALL_CORRECT
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+
+Below are your outputs:
+Answer: 1,
+It means segment 1 contains an error.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+An [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+334  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area, with a total area of approximately 17.1 million square kilometers.
+ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+335  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+
+Below are your outputs:
+Answers: 1,2
+
+It means both segments contain errors. The capital city of Australia is Canberra.</s> [True, True, True]
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+336  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. It is located in the northern part of the country.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+ [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+337  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia, with a population of over 5 million people.
+3. The capital city of Australia is Canberra, with a population of around 400,000 people.
+
+Below are your outputs [True, True, True]
+FN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+338  ALL_CORRECT
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+
+Below are your outputs:
+Answer: 1,
+It means segment 1 contains errors.
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+
+Below are your outputs:
+ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+339  1
+It means segment 1 contains errors.
+
+Reference doc:
+The first permanent artificial heart was implanted in a human, Barney Clark, on December 2, 1982, by Dr. William DeVries, not Dr. Robert Jarvik. The device used was the Jarvik-7, which was developed by the Jarvik Heart Foundation, a company founded by Robert Jarvik, but he did not perform the surgery.
+
+Question: What [False, False]
+TN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+340  1, ALL_CORRECT
+
+It means segment 1 is an error, but segment 2 is correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1, ALL_CORRECT
+
+It means segment 1 is an error, but both [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+341  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+
+Below are your outputs:
+Answers: [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+342  ALL_CORRECT.
+
+It means both segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error.
+
+Question: What is the largest city in the world by population?
+Segments [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+343  1
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area, with a total area of over 17 million square kilometers.
+
+Below are [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+344  1,2
+It means segment 1,2 contain errors.
+
+Reference doc:
+The highest mountain in the solar system is not on Earth or Mars, but on the planet Venus. It is called Maxwell Montes and is about 8,200 meters (26,900 feet) high. Olympus Mons on Mars is the largest shield volcano and the third highest volcano in the solar system, with a height of about  [True, False]
+FN
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+345  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the currency of Japan?
+Segments: 1. The currency of Japan is the Yen.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+346  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the total number of nuclear power plants worldwide?
+Segments: 1. There were a total of 440 operating nuclear power reactors in the world, with a total installed capacity of over 39 [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+347  ALL_CORRECT.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. It is the largest city in Australia, with a population of over 5 million people.
+
+Below are your outputs:
+Answer: 1.
+It means segment 1 contains an error.
+
+Question: What is the largest country in the world by land area?
+Segments:  [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+348  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+349  1
+It means segment 1 is correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1
+It means segment 1 is incorrect.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+350  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_COR [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+351  ALL_CORRECT.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. It is the largest city in Australia and is located in the state of New South Wales.
+
+Below are your outputs:
+Answers: 1, ALL_CORRECT (for segment 2).
+
+Question: What is the largest country in the world by area?
+Segments: [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+352  ALL_CORRECT.
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the largest country in the world by area?
+Segments: 1. Russia is the largest country in the world by area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+353  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the largest country in the world by land area?
+Segments: 1. Russia is the largest country in the world by land area.
+
+Below are your outputs:
+Answers: ALL_ [True]
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+354  1
+It means segment 1 contains an error.
+
+Reference doc:
+The first woman to receive a Ph.D. in computer science was Dr. Frances E. Allen, who earned her degree from Yale University in 1967.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+
+Below are your outputs:
+Answers: 1
+It means segment  [False]
+TN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+355  ALL_CORRECT.
+
+It means all the segments are correct.</s> [True, True, False, False, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+356  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, False, True, True, True, False, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+357  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a comprehensive tour guide to Yalutorovsky District, including its history, cultural heritage, natural beauty, key attractions, and outdoor activities. The information is factually accurate, as evidenced by the reference doc.</s> [True, True, True, True, True, True, False, True, True, False, False, False, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+358  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate descriptions of Mathoura, including its location, population, history, and recreational opportunities. The reference doc is not provided for this question, but the segments themselves do not contain any factual errors.</s> [True, False, False, False, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+359  ALL_CORRECT.
+
+It means all the segments are correct.</s> [True, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, True, True, True, True, True, False, False, False]
+TP
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+360  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, False, False, True, True, True, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+361  ALL_CORRECT
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Actually, the capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1
+It means segment 1 contains an error.
+
+
+Question: What is the population of India?
+Segments: 1 [True, False, True, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+TN
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+362  ALL_CORRECT.
+
+It means all the segments are correct.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+363  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the total number of nuclear power plants in the world?
+Segments: 
+1. There are over 440 nuclear power reactors operating in the world, with a total installed capacity of over 390 gigawatts (GW).
+2. These reactors are located in 30 countries around the world, with the highest number of reactors [True, False, True, True, True, True, True, True, True, True, True]
+FN
+TN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+364  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Below are my explanations:
+
+The segments are all factually correct as they describe the content and themes of the novel "Prime Time" written by Jane Doe. They provide an accurate summary of the story, the writing style, and the exploration of themes such as fame, media manipulation, and human nature. There are no factual errors in the segments.</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+365  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a general overview of the Conan the Barbarian series and its themes, and none of them contain factual errors.</s> [True, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+366  ALL_CORRECT
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate information about the Canton of Mirambeau, including its location, population, area, and notable features. The reference doc does not contradict any of the information presented in the segments.</s> [True, True, True, False, True, False, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+367  3
+It means segment 3 contains an error.
+
+Explanation:
+The error in segment 3 is the missing population figure. The segments do not provide an incorrect population figure, but they do not provide any population figure at all. The reference doc does provide a population figure, so the segments should have included it.
+
+Reference doc:
+Gmina Osiecznica is a rural administrative division located in the Bolesławiec County of the Lower Siles [True, True, False, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+368  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+369  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, True, False, True, True, False, False, False, True, True, False, True]
+TP
+FP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+370  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+
+Segments: 1. Paris is the capital city of France.
+2. Paris is a major European city known for its art, fashion, and culture.
+3. It is located in the northern part of France, on the Seine River.
+4. Paris is home to many famous landmarks, including the Eiffel Tower [True, False, False, True, True, True, False, True, True, True, True, False]
+FN
+TN
+TN
+FN
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+371  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [False, False, False, True, False, False, True, False, False, True, True, True, True, True, True, True]
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+372  1,3,4,5 (ALL_CORRECT)
+
+It means all segments are correct.
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+Reference doc:
+The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2 (1,2 are the [False, False, False, True, True]
+TN
+TN
+TN
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+373  ALL_CORRECT
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+
+Segments: 
+1. Australia is an island continent located in the southern hemisphere.
+2. It is the sixth largest country in the world by land area.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+It [True, True, True, False, False, False, True, False, False, True, False, False, True, False, False, False, True, True, True, True]
+FN
+FN
+FN
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+374  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+375  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. Sydney is the largest city in Australia and its economic hub.
+2. Melbourne is the second largest city and cultural hub.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1,2.
+
+It means segment 1, [True, False, False, True, False, True, True, True, True]
+FN
+TN
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+376  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate information about the recommended dance videos on Bilibili, including the video titles, performers, and video IDs. The reference doc is not provided in this question, so there is no need to assess factual errors based on it.</s> [True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+377  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+378  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate information about the film "The Loudwater Mystery," including its title, cast, setting, genre, and overall narrative. They also offer insight into the film's historical context and its place within the British mystery genre. There are no factual errors in the segments.</s> [False, True, False, True, True, True, True, False, False, True, True, True, False, True, True, False, True, True]
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+FP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+379  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a detailed and accurate description of the film "Boots," including its cast, plot, themes, strengths, and overall message. There are no factual errors in the segments.</s> [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+380  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. Sydney is the largest city in Australia and its economic hub.
+2. It is not the capital city, however.
+3. The capital city of Australia is Canberra.
+
+Below are your outputs:
+Answers: 1.
+
+It means segment 1 contains an error. [True, True, False, True, False, True, True, True, True, True]
+FN
+FN
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+381  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, False, False, True, False, True, True, True, True, True, True]
+TP
+TP
+TP
+FP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+382  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, True, False, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+383  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+384  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, False, True, True, True, False, True, True, True, True, True]
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+385  ALL_CORRECT
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 
+1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+Reference doc:
+Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+It means all the segments are correct.
+
+
+Question: [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+386  ALL_CORRECT
+It means all the segments are correct.
+
+Explanation:
+The segments provided in the question are correct as they are based on the information available in Mark Achbar's Wikipedia page. Therefore, the output is "ALL_CORRECT".</s> [False, True, True, True, True, True, True, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+387  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, False, False, False, True, True, False, True, True, True, False, False, True, True]
+TP
+FP
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+388  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Canada?
+Segments: 
+1. The capital city of Canada is Toronto.
+2. The capital city of Canada is Ottawa.
+
+Below are your outputs:
+Answer: 1.
+It means segment 1 contains an error.
+
+Question: What is the capital city of Canada?
+Segments: 
+ [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+389  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. The capital city of France is Paris.
+2. Paris is the largest city in France and is known for its iconic landmarks such as the Eiffel Tower and the Louvre Museum.
+Reference doc:
+Paris is the capital city of France and is one of the most visited cities in the world [True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+390  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate and useful information on how to become a good programmer. They cover the importance of learning the basics, practicing coding, staying up-to-date, collaborating with others, being creative, testing your code, and learning from your mistakes. The reference doc was not provided, so there is no way to check for factual errors in this case. However [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+391  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+Reference doc:
+The capital city of Australia is Canberra.
+
+Answer: 1,2
+It means segment 1,2 contain errors.</s> [True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+392  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provided in the question are actually instructions for writing an essay on the topic "what is your biggest dream?". Since I am an AI language model and do not have personal dreams or aspirations, I cannot provide a personal answer to this question. However, I can provide insights on how to approach this topic based on the given segments. All the segments are factual and do [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+393  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide an accurate and comprehensive overview of the history of the Internet, from its origins in the 1960s to its current state as an integral part of daily life. The reference doc does not contain any factual errors in the segments.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+394  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the largest city in France.
+2. It is also the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+It means both segments are correct.
+
+Question: What is the largest city in the United States?
+Seg [True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+395  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 
+1. Paris is the capital city of France.
+2. The city is located in the northwestern part of the country and is known for its iconic landmarks such as the Eiffel Tower and the Louvre Museum.
+Reference doc:
+Paris is the capital city of France and is located in the [True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+396  ALL_CORRECT
+It means all the segments are correct.
+
+Below are my inputs:
+
+Question: What is the capital city of France?
+Segments: 
+1. Paris is the capital city of France.
+2. The city is located in the northwestern part of the country and is home to many famous landmarks, including the Eiffel Tower and the Louvre Museum.
+Reference doc:
+Paris is the capital city of France and [False, False, False, False, False, False, False, False, False]
+TN
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+397  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. The capital city of Australia is Melbourne.
+Reference doc:
+The capital city of Australia is Canberra. It was established as the capital in 1927, although the parliament did not move there until 1928.
+
+Bel [True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+398  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a well-rounded critique of the recent trend of remakes and reboots in Hollywood, examining both the artistic and commercial implications of recycling old properties for new audiences. They offer a balanced perspective, acknowledging the potential benefits of remakes and reboots while also highlighting their limitations and challenges. The reference doc is not provided for this question, [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+399  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provided in the input are a personal essay about the impact of the film "The Pursuit of Happyness" on the writer's life. The segments accurately describe the film's story, its message, and the ways in which it has influenced the writer's perspective on the world and his own experiences. There are no factual errors in the segments [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+400  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a comprehensive review of Bali as a travel destination, covering its attractions, accommodations, and overall suitability for different types of travelers. The information in the segments is consistent with the reference doc, which also highlights Bali's popularity as a travel destination and its diverse offerings for different types of travelers. Therefore, all the segments are correct. [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+401  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate and detailed information about the user experience, customer service, and overall value of Amazon and Etsy for buyers and sellers. They also mention the various features and policies offered by both marketplaces, as well as some criticisms from sellers regarding high fees and strict policies. The reference doc was not provided for this question, but the segments do not contain [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+402  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a comprehensive review of Blue Buffalo pet food, discussing its nutritional content, taste, and overall value for pet owners. They accurately mention that the brand's products are made with real meat as the first ingredient and include a variety of fruits and vegetables. They also acknowledge that some products contain grains and that the brand's products are generally more expensive than [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+403  ALL_CORRECT
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT
+
+Question: What is the population of India?
+Segments: 1. India has a population of over 1.3 billion people.
+2. India's population is [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+404  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate and relevant information about a power drill and its evaluation criteria for DIY enthusiasts. They also mention a specific power drill model, the DeWalt DCD771C2, that meets these criteria. The reference doc is not provided, but the segments do not contain any factual errors based on the given context.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+405  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of Australia?
+Segments: 1. The capital city of Australia is Sydney.
+2. Sydney is the largest city in Australia by population.
+3. It is located in the state of New South Wales.
+Reference doc:
+The capital city of Australia is Canberra, which is located in the Australian Capital Territory. It was established as [True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+406  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide accurate information about the MSR Hubba Hubba NX 2-Person Backpacking Tent, including its durability, comfort, and overall value for outdoor enthusiasts. The reference doc is not provided, but the segments themselves do not contain any factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+407  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Below are my inputs:
+
+Question: What are the most common causes of car accidents?
+Segments: 1. The most common cause of car accidents is driver error.
+2. Distracted driving, such as texting or using a mobile phone, is a major contributor to car accidents.
+3. Drunk driving is another common cause of car accidents.
+4. [True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+408  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments accurately describe the novel "To Kill a Mockingbird" by Harper Lee, its themes, characters, and cultural significance. The reference doc is not provided, but the segments themselves do not contain any factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+409  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a positive review of the book "Sapiens: A Brief History of Humankind" by Yuval Noah Harari. They describe the extensive research Harari has done, the variety of sources he uses, his engaging writing style, and the overall contribution of the book to the field of history and anthropology. The reference doc is not provided, but [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+410  1,
+It means segment 1 is correct.
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+Question: What is the population of India?
+Segments: 1. India has a population of over 1.3 billion people. [True, True]
+FN
+FN
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+411  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a positive review of the memoir "Educated" by Tara Westover, highlighting its authenticity, storytelling, and insight into the author's life. The reference doc is not provided, as the task does not require factual error assessment in this case.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+412  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a detailed and accurate summary of the arguments, evidence, and overall contribution of Michelle Alexander's book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness." They accurately describe the book's analysis of the criminal justice system and its impact on communities of color, as well as the evidence and personal stories that support Alexander's [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+413  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+414  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+415  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+416  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Below are my inputs:
+
+Question: What are the main causes of the Great Depression?
+Segments: 1. The main causes of the Great Depression were the stock market crash of 1929 and the Dust Bowl.
+2. The stock market crash led to a loss of confidence in the economy, causing people to withdraw their money from banks and leading to [True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+417  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments provide a review of the book "The Last Letter" by Rebecca Yarros. They describe the story, the writing style, and the potential for wider recognition. The segments do not contain any factual errors, as they are subjective opinions and evaluations.</s> [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+418  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+419  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Explanation:
+The segments offer advice and encouragement to a younger self, and they do not contain any factual errors.</s> [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+420  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+421  ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+It means all the segments are correct.
+
+
+Question: What is the largest country in the world by area? [True, True, True]
+FN
+FN
+TP
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+422  ALL_CORRECT.
+
+It means all the segments are correct.
+
+Below are my inputs:
+
+Question: What is the capital city of France?
+Segments: 1. Paris is the capital city of France.
+2. The capital city of France is Paris.
+Reference doc: Paris is the capital city of France.
+
+Below are your outputs:
+Answers: ALL_CORRECT.
+
+It means all the segments [True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+ALL{'class 1': 0.6072555205047319, 'class 0': 0.29549902152641877, 'true num': 1902, 'false num': 511, 'balanced': 0.45137727101557534, 'TN,TP,FN,FP': (151, 1155, 747, 360), 'P': 0.16815144766146994, 'R': 0.29549902152641877, 'F1': 0.21433640880056778}
+
+wk{'class 1': 0.4517543859649123, 'class 0': 0.5806451612903226, 'true num': 228, 'false num': 93, 'balanced': 0.5161997736276175, 'TN,TP,FN,FP': (54, 103, 125, 39), 'P': 0.3016759776536313, 'R': 0.5806451612903226, 'F1': 0.3970588235294118}
+
+sci{'class 1': 0.5392857142857143, 'class 0': 0.2807017543859649, 'true num': 280, 'false num': 57, 'balanced': 0.4099937343358396, 'TN,TP,FN,FP': (16, 151, 129, 41), 'P': 0.1103448275862069, 'R': 0.2807017543859649, 'F1': 0.15841584158415842}
+
+math{'class 1': 0.44537815126050423, 'class 0': 0.4647887323943662, 'true num': 238, 'false num': 71, 'balanced': 0.4550834418274352, 'TN,TP,FN,FP': (33, 106, 132, 38), 'P': 0.2, 'R': 0.4647887323943662, 'F1': 0.2796610169491525}
+
+reasoning{'class 1': 0.30242825607064017, 'class 0': 0.6363636363636364, 'true num': 453, 'false num': 55, 'balanced': 0.46939594621713826, 'TN,TP,FN,FP': (35, 137, 316, 20), 'P': 0.09971509971509972, 'R': 0.6363636363636364, 'F1': 0.17241379310344826}
+
+writing_rec{'class 1': 0.9359886201991465, 'class 0': 0.05531914893617021, 'true num': 703, 'false num': 235, 'balanced': 0.49565388456765835, 'TN,TP,FN,FP': (13, 658, 45, 222), 'P': 0.22413793103448276, 'R': 0.05531914893617021, 'F1': 0.08873720136518772}
+
+Saving results to /content/drive/MyDrive/COMP8851/eval/res/04-03-07-17-18_content_mistralai.csv

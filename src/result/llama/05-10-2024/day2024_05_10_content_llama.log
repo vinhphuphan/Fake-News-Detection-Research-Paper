@@ -1,0 +1,2851 @@
+***********************day2024_05_10************************
+0 Answer: ALL_CORRECT [False]
+FP
+1 Answer: 1 [True]
+FN
+2 Answer: ALL_CORRECT [False]
+FP
+3 Answer: 1 [False]
+TN
+4 Answer: 1 [False]
+TN
+5 Answer: 2 [False, False]
+FP
+TN
+6 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+7 Answer: 1 [False, False]
+TN
+FP
+8 Answer: 1 [True]
+FN
+9 Answer: 2, 3 [True, True, True, False]
+TP
+FN
+FN
+FP
+10 Answer: 2 [True, True]
+TP
+FN
+11 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+12 Answer: ALL_CORRECT [True]
+TP
+13 Answer: 1 [True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+14 Answer: 3 [True, True, True]
+TP
+TP
+FN
+15 Answer: 5 [True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+16 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+17 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+18 Answer: ALL_CORRECT [True, False, False]
+TP
+FP
+FP
+19 Answer: 1 [True, True, True]
+FN
+TP
+TP
+20 Answer: 3 [True, True, True, False]
+TP
+TP
+FN
+FP
+21 Answer: ALL_CORRECT [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+22 Answer: 3 [True, True, True, True, True, False, False]
+TP
+TP
+FN
+TP
+TP
+FP
+FP
+23 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+24 Answer: 1 [True]
+FN
+25 Answer: 1 [False, False, False, False]
+TN
+FP
+FP
+FP
+26 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+27 Answer: ALL_CORRECT [False]
+FP
+28 Answer: 1 [True, True]
+FN
+TP
+29 Answer: 2 [True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+30 Answer: 1 [False]
+TN
+31 Answer: ALL_CORRECT [False, False]
+FP
+FP
+32 Answer: ALL_CORRECT [False]
+FP
+33 Answer: ALL_CORRECT [True, True]
+TP
+TP
+34 Answer: ALL_CORRECT [False, False, False, False]
+FP
+FP
+FP
+FP
+35 Answer: ALL_CORRECT [True, True, True, True, True, True, False, False]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+36 Answer: 1 [True, True]
+FN
+TP
+37 Answer: 4 [True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+38 Answer: 1 [True, False]
+FN
+FP
+39 Answer: ALL_CORRECT [False, False]
+FP
+FP
+40 Answer: 1 [False, False]
+TN
+FP
+41 Answer: 1 [True, True, False]
+FN
+TP
+FP
+42 Answer: 2 [True, True]
+TP
+FN
+43 Answer: 2,5 [True, True, True, True, True]
+TP
+FN
+TP
+TP
+FN
+44 Answer: ALL_CORRECT [False, False, False, False]
+FP
+FP
+FP
+FP
+45 Answer: 2,3,4 [True, False, False, False, False]
+TP
+TN
+TN
+TN
+FP
+46 Answer: ALL_CORRECT [True]
+TP
+47 Answer: 2 [True, True]
+TP
+FN
+48 Answer: 3 [True, True, True, True]
+TP
+TP
+FN
+TP
+49 Answer: ALL_CORRECT [True]
+TP
+50 Answer: ALL_CORRECT [True, False]
+TP
+FP
+51 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+52 Answer: ALL_CORRECT [True, True]
+TP
+TP
+53 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+54 Answer: ALL_CORRECT [True, True]
+TP
+TP
+55 Answer: 2 [True, True]
+TP
+FN
+56 Answer: 2,3 [True, True, True, True]
+TP
+FN
+FN
+TP
+57 Answer: ALL_CORRECT [True]
+TP
+58 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+59 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+60 Answer: 2 [True, True]
+TP
+FN
+61 Answer: ALL_CORRECT [True, True]
+TP
+TP
+62 Answer: 2 [True, True]
+TP
+FN
+63 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+64 Answer: ALL_CORRECT [True, True]
+TP
+TP
+65 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+66 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+67 Answer: 2 [True, False]
+TP
+TN
+68 Answer: 3 [False, False, False]
+FP
+FP
+TN
+69 Answer: ALL_CORRECT [True, True]
+TP
+TP
+70 Answer: 2 [True, True, True]
+TP
+FN
+TP
+71 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+72 Answer: ALL_CORRECT [True, True]
+TP
+TP
+73 Answer: ALL_CORRECT [True, True]
+TP
+TP
+74 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+75 Answer: 3 [True, True, True]
+TP
+TP
+FN
+76 Answer: ALL_CORRECT [False, False]
+FP
+FP
+77 Answer: ALL_CORRECT [True, True, False]
+TP
+TP
+FP
+78 Answer: ALL_CORRECT [True, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+79 Answer: 2 [True, True]
+TP
+FN
+80 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+81 Answer: ALL_CORRECT [True]
+TP
+82 Answer: 1 [True, True, True]
+FN
+TP
+TP
+83 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+84 Answer: 7 [True, True, True, True, True, False, False, False, False, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+TN
+FP
+FP
+FP
+FP
+FP
+85 Answer: 1,2 [False, False, False]
+TN
+TN
+FP
+86 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+87 Answer: 2 [True, True, True]
+TP
+FN
+TP
+88 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+89 Answer: 1 [True, True, True]
+FN
+TP
+TP
+90 Answer: ALL_CORRECT [True]
+TP
+91 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+92 Answer: 1 [True]
+FN
+93 Answer: 3 [True, True, True, True]
+TP
+TP
+FN
+TP
+94 Answer: ALL_CORRECT [False, False, False, False]
+FP
+FP
+FP
+FP
+95 Answer: ALL_CORRECT [False]
+FP
+96 Answer: 2 [True, True, True]
+TP
+FN
+TP
+97 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+98 Answer: ALL_CORRECT [True, True]
+TP
+TP
+99 Answer: 2 [True, True, False]
+TP
+FN
+FP
+100 Answer: ALL_CORRECT [True, True]
+TP
+TP
+101 Answer: 2 [True, True]
+TP
+FN
+102 Answer: ALL_CORRECT [False]
+FP
+103 Answer: 1,3,4 [True, True, True, True, True, True]
+FN
+TP
+FN
+FN
+TP
+TP
+104 Answer: ALL_CORRECT [True, True, True, True, False, False, False, False]
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+FP
+105 Answer: ALL_CORRECT [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+106 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+107 Answer: ALL_CORRECT [True, True, True, False, False]
+TP
+TP
+TP
+FP
+FP
+108 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+109 Answer: 1,4 [True, True, True, False, False, False, False, False]
+FN
+TP
+TP
+TN
+FP
+FP
+FP
+FP
+110 Answer: ALL_CORRECT [False, False, False]
+FP
+FP
+FP
+111 Answer: 4 [True, False, True, False]
+TP
+FP
+TP
+TN
+112 Answer: ALL_CORRECT [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+113 Answer: ALL_CORRECT [True, True, False, True, False]
+TP
+TP
+FP
+TP
+FP
+114 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+115 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+116 Answer: 1 [True, True]
+FN
+TP
+117 Answer: 8 [True, True, True, True, False, False, False, False, False, True, True, True]
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+TN
+FP
+TP
+TP
+TP
+118 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+119 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+120 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+121 Answer: 1,3 [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+FP
+TN
+FP
+122 Answer: ALL_CORRECT [True, False, True, True]
+TP
+FP
+TP
+TP
+123 Answer: 3 [True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+124 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+125 Answer: 7 [True, True, True, True, True, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+TN
+FP
+126 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+127 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+128 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+129 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+130 Answer: ALL_CORRECT [True, True]
+TP
+TP
+131 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+132 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+133 Answer: 2 [True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+134 Answer: 6 [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+135 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+136 Answer: ALL_CORRECT [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+137 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+138 Answer: 4 [True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+139 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+140 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+141 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+142 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+143 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+144 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+145 Answer: ALL_CORRECT [False, False]
+FP
+FP
+146 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+147 Answer: ALL_CORRECT [True, True, True, False]
+TP
+TP
+TP
+FP
+148 Answer: ALL_CORRECT [True, True]
+TP
+TP
+149 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+150 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+151 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+152 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+153 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+154 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+155 Answer: 2 [True, True, True]
+TP
+FN
+TP
+156 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+157 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+158 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+159 Answer: 6 [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+160 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+161 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+162 Answer: 6 [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+163 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+164 Answer: ALL_CORRECT [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+165 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+166 Answer: 1,3,4 [True, True, True, True, True, True]
+FN
+TP
+FN
+FN
+TP
+TP
+167 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+168 Answer: ALL_CORRECT [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+169 Answer: ALL_CORRECT [True, True]
+TP
+TP
+170 Answer: ALL_CORRECT [True, True]
+TP
+TP
+171 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+172 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+173 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+174 Answer: ALL_CORRECT [False, False, False, True, True, True, False]
+FP
+FP
+FP
+TP
+TP
+TP
+FP
+175 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+176 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+177 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+178 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+179 Answer: 2 [True, True, True, True]
+TP
+FN
+TP
+TP
+180 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+181 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+182 Answer: 1,3,4 [True, True, True, True, True]
+FN
+TP
+FN
+FN
+TP
+183 Answer: 2, 5, 6 [True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+FN
+FN
+TP
+TP
+184 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+185 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+186 Answer: 1,4,5,6,7,8,9,10,11 [True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+TP
+TP
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+FN
+TP
+187 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+188 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+189 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+190 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+191 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+192 Answer: 2 [True, True, True, True]
+TP
+FN
+TP
+TP
+193 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+194 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+195 Answer: ALL_CORRECT [True, False, False, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+196 Answer: ALL_CORRECT [True, True]
+TP
+TP
+197 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+198 Answer: 5 [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+TP
+199 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+200 Answer: 5 [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+TP
+201 Answer: ALL_CORRECT [True, False, False, False]
+TP
+FP
+FP
+FP
+202 Answer: ALL_CORRECT [True, True, True, False]
+TP
+TP
+TP
+FP
+203 I'm ready to assist with the assessment. Please provide the text segments for analysis along with the reference document. [True, True, True, False, True]
+TP
+TP
+TP
+FP
+TP
+204 Answer: 3 [True, True, True, False, True, False, False, False, True]
+TP
+TP
+FN
+FP
+TP
+FP
+FP
+FP
+TP
+205 Answer: 1,2,4,6 [True, True, True, True, True, True]
+FN
+FN
+TP
+FN
+TP
+FN
+206 Answer: ALL_CORRECT [True, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+207 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+208 Answer: ALL_CORRECT [True, True, True, True, True, True, False, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+209 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+210 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+211 Answer: ALL_CORRECT [False, False, False, False]
+FP
+FP
+FP
+FP
+212 Answer: ALL_CORRECT [False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+213 Answer: 1,6 [True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+FN
+214 Answer: 3,4 [True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+FN
+TP
+TP
+TP
+TP
+215 Answer: 1 [True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+216 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+217 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+218 Answer: 5 [True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+219 Answer: ALL_CORRECT [False, True, False, True]
+FP
+TP
+FP
+TP
+220 Answer: 3,5
+ [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+221 Answer: 3,5
+ [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+222 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+223 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+224 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+225 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+226 Answer: ALL_CORRECT [False]
+FP
+227 Answer: ALL_CORRECT [False, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+228 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+229 Answer: 1 [True, True, True]
+FN
+TP
+TP
+230 Answer: ALL_CORRECT [True, False, False, True, False, False, True, False, False, True, False, False, True, False, False]
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+231 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+232 Answer: 1 [False, False, False, False]
+TN
+FP
+FP
+FP
+233 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+234 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+235 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+236 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+237 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+238 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+239 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+240 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+241 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+242 Answer: ALL_CORRECT [True]
+TP
+243 Answer: 2 [False, False]
+FP
+TN
+244 Answer: ALL_CORRECT [True, True]
+TP
+TP
+245 Answer: ALL_CORRECT [False]
+FP
+246 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+247 Answer: ALL_CORRECT [False, True, True, True]
+FP
+TP
+TP
+TP
+248 Answer: ALL_CORRECT [True, True, False, True, True]
+TP
+TP
+FP
+TP
+TP
+249 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+250 Answer: ALL_CORRECT [True, False, True, False, True, False, True, True, True, False, True, False, True, False, True]
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+251 Answer: ALL_CORRECT [True]
+TP
+252 Answer: ALL_CORRECT [False, True, True, True, True, True, True, True, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+253 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+254 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+255 Answer: 4 [True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+256 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+257 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+258 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+259 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+260 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+261 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+262 I'm ready to assist with assessing the text segments for factual errors. Please provide the reference doc for the question about the corona of the Sun. [True, True, True]
+TP
+TP
+TP
+263 Answer: 1 [False, True]
+TN
+TP
+264 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+265 Answer: 1,2 [True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+266 Answer: 1,2,3 [True, True, False, False, False]
+FN
+FN
+TN
+FP
+FP
+267 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+268 Answer: 6 [True, True, True, True, False, False, True]
+TP
+TP
+TP
+TP
+FP
+TN
+TP
+269 Answer: 3 [False, True, False, True, True]
+FP
+TP
+TN
+TP
+TP
+270 Answer: ALL_CORRECT [False, False]
+FP
+FP
+271 Answer: 3 [True, True, True, True]
+TP
+TP
+FN
+TP
+272 Answer: 1,5 [True, True, True, True, True]
+FN
+TP
+TP
+TP
+FN
+273 Answer: 2 [False, True, False, True]
+FP
+FN
+FP
+TP
+274 Answer: ALL_CORRECT [True, False, False]
+TP
+FP
+FP
+275 Answer: 1,2,3 [False, True, False]
+TN
+FN
+TN
+276 Answer: 9 [True, True, True, True, True, True, True, False, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+FN
+277 Answer: 2 [False, True]
+FP
+FN
+278 Answer: ALL_CORRECT [False, True, True, True]
+FP
+TP
+TP
+TP
+279 Answer: 1,2 [False, False, False, True, True]
+TN
+TN
+FP
+TP
+TP
+280 Answer: 1 [False, True, True, True, True, True]
+TN
+TP
+TP
+TP
+TP
+TP
+281 Answer: ALL_CORRECT [False, False]
+FP
+FP
+282 Answer: ALL_CORRECT [True]
+TP
+283 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+284 Answer: 2,4,5 [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+FN
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+285 Answer: ALL_CORRECT [False, False, True, True]
+FP
+FP
+TP
+TP
+286 Answer: 2 [True, False, False]
+TP
+TN
+FP
+287 Answer: 1 [True, False, False, False]
+FN
+FP
+FP
+FP
+288 Answer: 1 [False, True, False, False]
+TN
+TP
+FP
+FP
+289 Answer: 2 [True, True, True, False, True, False, False, True, False]
+TP
+FN
+TP
+FP
+TP
+FP
+FP
+TP
+FP
+290 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+291 Answer: 2,4,6,7 [False, True, True, True, True, True, True, False]
+FP
+FN
+TP
+FN
+TP
+FN
+FN
+FP
+292 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+293 Answer: 2 [True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+294 Answer: ALL_CORRECT [False]
+FP
+295 Answer: ALL_CORRECT [True, True]
+TP
+TP
+296 Answer: ALL_CORRECT [True, True]
+TP
+TP
+297 Answer: 1 [False, True]
+TN
+TP
+298 Answer: ALL_CORRECT [False]
+FP
+299 Answer: 1 [True, True, True, True, True, True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+300 Answer: 1 [False, True, True, True, True]
+TN
+TP
+TP
+TP
+TP
+301 Answer: ALL_CORRECT [True, False, True, False, True, False, True, False, True, False, True, True, True, False, True, False, True, False, True, False]
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+302 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+303 Answer: 2 [True, True, True, True, False, True, False, True, True, True, False, True, True]
+TP
+FN
+TP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+304 Answer: 3 [False, False, False]
+FP
+FP
+TN
+305 Answer: 1,5 [True, False, True, True, False]
+FN
+FP
+TP
+TP
+TN
+306 Answer: 1 [True, True, True]
+FN
+TP
+TP
+307 Answer: 3 [True, True, True]
+TP
+TP
+FN
+308 Answer: ALL_CORRECT [True]
+TP
+309 Answer: 2 [True, True]
+TP
+FN
+310 Answer: 3 [True, True, True, True]
+TP
+TP
+FN
+TP
+311 Answer: 1 [True, False]
+FN
+FP
+312 Answer: ALL_CORRECT [False]
+FP
+313 Answer: ALL_CORRECT [True]
+TP
+314 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+315 Answer: ALL_CORRECT [False, True, False, False, False, False, False, False, False]
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+316 Answer: ALL_CORRECT [True, True, True, True]
+TP
+TP
+TP
+TP
+317 Answer: ALL_CORRECT [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+318 Answer: 1,3 [True, True, True, True, True]
+FN
+TP
+FN
+TP
+TP
+319 Answer: ALL_CORRECT [False, False, True]
+FP
+FP
+TP
+320 Answer: ALL_CORRECT [False]
+FP
+321 Answer: ALL_CORRECT [False]
+FP
+322 Answer: ALL_CORRECT [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+323 Answer: ALL_CORRECT [False]
+FP
+324 Answer: 1,4 [True, True, True, True]
+FN
+TP
+TP
+FN
+325 Answer: 3 [False, False, False, True]
+FP
+FP
+TN
+TP
+326 Answer: ALL_CORRECT [False]
+FP
+327 Answer: ALL_CORRECT [True]
+TP
+328 Answer: 1 [True]
+FN
+329 Answer: 3 [True, True, False]
+TP
+TP
+TN
+330 Answer: ALL_CORRECT [True]
+TP
+331 Answer: ALL_CORRECT [True]
+TP
+332 Answer: ALL_CORRECT [True]
+TP
+333 Answer: ALL_CORRECT [True]
+TP
+334 Answer: ALL_CORRECT [True]
+TP
+335 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+336 Answer: ALL_CORRECT [True, True]
+TP
+TP
+337 Answer: 3 [True, True, True]
+TP
+TP
+FN
+338 Answer: 1 [True]
+FN
+339 Answer: ALL_CORRECT [False, False]
+FP
+FP
+340 Answer: 1 [True, True]
+FN
+TP
+341 Answer: ALL_CORRECT [True]
+TP
+342 Answer: 1 [True, True]
+FN
+TP
+343 Answer: 1 [True]
+FN
+344 Answer: ALL_CORRECT [True, False]
+TP
+FP
+345 Answer: ALL_CORRECT [False]
+FP
+346 Answer: ALL_CORRECT [False]
+FP
+347 Answer: ALL_CORRECT [True, True]
+TP
+TP
+348 Answer: ALL_CORRECT [True]
+TP
+349 Answer: ALL_CORRECT [True, True]
+TP
+TP
+350 Answer: ALL_CORRECT [False]
+FP
+351 Answer: ALL_CORRECT [True, True]
+TP
+TP
+352 Answer: ALL_CORRECT [True]
+TP
+353 Answer: ALL_CORRECT [True]
+TP
+354 Answer: ALL_CORRECT [False]
+FP
+355 Answer: 2 [True, True, False, False, True, True, True, True, True, True, True, True, True]
+TP
+FN
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+356 Answer: 2 [True, True, False, True, True, True, False, True, True, True, True, True, True, True, True, True, True]
+TP
+FN
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+357 Answer: ALL_CORRECT [True, True, True, True, True, True, False, True, True, False, False, False, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+358 Answer: 4 [True, False, False, False, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+TN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+359 Answer: 1, 2, 13, 20 [True, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, True, True, True, True, True, False, False, False]
+FN
+TN
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+TP
+FP
+FP
+TN
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+FP
+FP
+FP
+360 Answer: 1 [True, False, False, False, True, True, True, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True]
+FN
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+361 Answer: ALL_CORRECT [True, False, True, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+362 Answer: 3,8,13,18,22
+ [True, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+FN
+FP
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+363 Answer: 2,3,6,7,8,9,10 [True, False, True, True, True, True, True, True, True, True, True]
+TP
+TN
+FN
+TP
+TP
+FN
+FN
+FN
+FN
+FN
+TP
+364 Answer: 3 [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+365 Answer: 1 [True, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+366 Answer: 4 [True, True, True, False, True, False, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+367 Answer: 3 [True, True, False, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+368 Answer: 9,13 [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+TN
+FP
+FP
+FP
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+369 Answer: ALL_CORRECT [True, False, True, False, True, True, False, False, False, True, True, False, True]
+TP
+FP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+370 Answer: 1,2,4 [True, False, False, True, True, True, False, True, True, True, True, False]
+FN
+TN
+FP
+FN
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+371 Answer: ALL_CORRECT [False, False, False, True, False, False, True, False, False, True, True, True, True, True, True, True]
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+372 Answer: 3,4 [False, False, False, True, True]
+FP
+FP
+TN
+FN
+TP
+373 Answer: ALL_CORRECT [True, True, True, False, False, False, True, False, False, True, False, False, True, False, False, False, True, True, True, True]
+TP
+TP
+TP
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+374 Answer: 1,20 [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+TN
+FP
+FP
+FP
+375 Answer: 3 [True, False, False, True, False, True, True, True, True]
+TP
+FP
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+376 Answer: ALL_CORRECT [True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+377 Answer: 2 [True, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TN
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+378 Answer: 1, 13 [False, True, False, True, True, True, True, False, False, True, True, True, False, True, True, False, True, True]
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TN
+TP
+TP
+FP
+TP
+TP
+379 Answer: 1 [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+380 Answer: 5 [True, True, False, True, False, True, True, True, True, True]
+TP
+TP
+FP
+TP
+TN
+TP
+TP
+TP
+TP
+TP
+381 Answer: 4 [True, True, True, False, False, True, False, True, True, True, True, True, True]
+TP
+TP
+TP
+TN
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+382 Answer: ALL_CORRECT [True, False, True, False, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+383 Answer: 1 [False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+384 Answer: ALL_CORRECT [True, False, False, True, True, True, False, True, True, True, True, True]
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+385 Answer: 1,2,4,5,6,9 [True, True, True, True, True, True, True, True, True, True]
+FN
+FN
+TP
+FN
+FN
+FN
+TP
+TP
+FN
+TP
+386 Answer: ALL_CORRECT [False, True, True, True, True, True, True, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+387 Answer: 2 [True, False, False, False, False, True, True, False, True, True, True, False, False, True, True]
+TP
+TN
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+388 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+389 Answer: 1,2,4 [True, True, True, True, True, True, True]
+FN
+FN
+TP
+FN
+TP
+TP
+TP
+390 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+391 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+392 Answer: 1 [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+393 Answer: 10 [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+394 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+395 Answer: 2 [True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+396 Answer: ALL_CORRECT [False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+397 Answer: 2,6 [True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+398 Answer: 11 [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+399 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+400 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+401 Answer: 15 [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+402 Answer: 6 [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+403 Answer: ALL_CORRECT [True, True]
+TP
+TP
+404 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+405 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+406 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+407 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+408 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+409 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+410 Answer: ALL_CORRECT [True, True]
+TP
+TP
+411 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+412 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+413 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+414 Answer: ALL_CORRECT [True, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+415 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+416 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+417 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+418 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+419 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+420 Answer: ALL_CORRECT [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+421 Answer: ALL_CORRECT [True, True, True]
+TP
+TP
+TP
+422 Answer: ALL_CORRECT [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+ALL{'class 1': 0.12133072407045009, 'class 0': 0.9127234490010515, 'true num': 1902, 'false num': 511, 'balanced': 0.5170270865357508, 'TN,TP,FN,FP': (62, 1736, 166, 449), 'P': 0.39725400457665905, 'R': 0.9127234490010515, 'F1': 0.42476143870809885}
+
+wk{'class 1': 0.1827956989247312, 'class 0': 0.8289473684210527, 'true num': 228, 'false num': 93, 'balanced': 0.505871533672892, 'TN,TP,FN,FP': (17, 189, 39, 76), 'P': 0.35660377358490564, 'R': 0.8289473684210527, 'F1': 0.383367139959432}
+
+sci{'class 1': 0.03508771929824561, 'class 0': 0.9392857142857143, 'true num': 280, 'false num': 57, 'balanced': 0.48718671679197995, 'TN,TP,FN,FP': (2, 263, 17, 55), 'P': 0.41352201257861637, 'R': 0.9392857142857143, 'F1': 0.4397993311036789}
+
+math{'class 1': 0.2112676056338028, 'class 0': 0.8445378151260504, 'true num': 238, 'false num': 71, 'balanced': 0.5279027103799266, 'TN,TP,FN,FP': (15, 201, 37, 56), 'P': 0.39105058365758755, 'R': 0.8445378151260504, 'F1': 0.40606060606060607}
+
+reasoning{'class 1': 0.10909090909090909, 'class 0': 0.9205298013245033, 'true num': 453, 'false num': 55, 'balanced': 0.5148103552077062, 'TN,TP,FN,FP': (6, 417, 36, 49), 'P': 0.44742489270386265, 'R': 0.9205298013245033, 'F1': 0.45375408052230687}
+
+writing_rec{'class 1': 0.09361702127659574, 'class 0': 0.9473684210526315, 'true num': 703, 'false num': 235, 'balanced': 0.5204927211646136, 'TN,TP,FN,FP': (22, 666, 37, 213), 'P': 0.378839590443686, 'R': 0.9473684210526315, 'F1': 0.4209860935524652}

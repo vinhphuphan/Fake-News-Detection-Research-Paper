@@ -1,0 +1,2848 @@
+***********************day2024_05_10************************
+0 ['Thought: All text segments are correct.\nAnswer: ALL_CORRECT'] [False]
+FP
+1 ['Answer: ALL_CORRECT'] [True]
+TP
+2 ['Answer: 1'] [False]
+TN
+3 ['Thought: The correct answer to 4839 + 3948 - 45 is 9742, not 8739.\nAnswer: 1'] [False]
+TN
+4 ['Thought: The answer to 2+4*3-7 is 7, not 5 as mentioned in segment 1. \nAnswer: 1'] [False]
+TN
+5 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+6 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+7 ['Thought: Both segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+8 ['Thought: The claim in segment 1 is incorrect.\nAnswer: 1'] [True]
+FN
+9 ['Thought: Segment 2 contains an error as it is missing the final calculation of the total time taken to complete the swim set.\nAnswer: 2'] [True, True, True, False]
+TP
+FN
+TP
+FP
+10 ['Thought: Both text segments are correct.\n\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+11 ['Thought: Segment 6 contains an error as the terms are miscombined.\nAnswer: 6'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+12 ['Answer: ALL_CORRECT'] [True]
+TP
+13 ['Thought: All text segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+14 ["Thought: Segment 1 contains errors as it incorrectly states that there are no integers a, b, and c that can satisfy a^n + b^n = c^n for any integer value of n greater than 2. The Fermat's Last Theorem actually proves that there are no integers a, b, and c that satisfy this equation, not that they do not exist at all.\nAnswer: 1"] [True, True, True]
+FN
+TP
+TP
+15 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+16 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+17 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+18 ['Thought: Segment 2 contains an error as it mentions checking pairs of prime factors of 30, but the values mentioned, 2, 3, and 5, are not all prime factors of 30. \nAnswer: 2'] [True, False, False]
+TP
+TN
+FP
+19 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+20 ['Thought: Segment 4 is incorrect as it provides the wrong answer for expressing 15:12 in the form 1:n.\nAnswer: 4'] [True, True, True, False]
+TP
+TP
+TP
+TN
+21 ['Thought: Segment 5 contains an error, the correct result of -0.8 multiplied by -1 is 0.8.\nAnswer: 5'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+22 ['Thought: Segment 3 and 5 are incomplete or contain errors.\nAnswer: 3,5'] [True, True, True, True, True, False, False]
+TP
+TP
+FN
+TP
+FN
+FP
+FP
+23 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+24 ['Thought: The addition mentioned in the segment is not correct.  \nAnswer: 1'] [True]
+FN
+25 ['Thought: Segment 1 and 4 contain errors. Segment 1 incorrectly states the answer, and in Segment 4, the calculation is inaccurate.\nAnswer: 1,4'] [False, False, False, False]
+TN
+FP
+FP
+TN
+26 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+27 ['Answer: ALL_CORRECT'] [False]
+FP
+28 ['Thought: Segment 1 contains an error. \nAnswer: 1'] [True, True]
+FN
+TP
+29 ['Thought: Segment 5 contains the error as the original number should be 10 instead of 10 because when dividing by 7, the result is 10 not 10.\nAnswer: 5'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+TP
+30 ['Thought: The calculation in segment 1 seems incorrect. It needs to be verified if the product of the listed numbers indeed results in approximately 0.000191.\nAnswer: 1'] [False]
+TN
+31 ['Thought: Segment 1 is incorrect as it states that the value of the definite integral of e^(x^2) dx from -infinity to infinity is equal to the square root of pi, denoted as √π. The actual value of the definite integral is not the square root of pi.\nAnswer: 1'] [False, False]
+TN
+FP
+32 ['Answer: ALL_CORRECT'] [False]
+FP
+33 ['Thought: The provided text segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+34 ['Answer: ALL_CORRECT'] [False, False, False, False]
+FP
+FP
+FP
+FP
+35 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, False, False]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+36 ['Thought: Segment 1 contains an error.\nAnswer: 1'] [True, True]
+FN
+TP
+37 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+38 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, False]
+TP
+FP
+39 ['Thought: The segments do not contain errors.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+40 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+41 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, False]
+TP
+TP
+FP
+42 ['Thought: There is an error in segment 2.\nAnswer: 2'] [True, True]
+TP
+FN
+43 ['Thought: Segment 2 contains an error in the calculation step. \nAnswer: 2'] [True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+44 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [False, False, False, False]
+FP
+FP
+FP
+FP
+45 ['Thought: Segment 5 contains an error.\nAnswer: 5'] [True, False, False, False, False]
+TP
+FP
+FP
+FP
+TN
+46 ['Thought: All text segments are correct.\nAnswer: ALL_CORRECT'] [True]
+TP
+47 ['Thought: Segment 2 contains an error as it seems to be incomplete or unrelated to the given question.\nAnswer: 2'] [True, True]
+TP
+FN
+48 ['Thought: Segment 1 contains an error, as it incorrectly equates ${(3^k)}^6$ to $3^{6k}$. Segment 3 also contains an error, as it incorrectly simplifies $3^{6k}=3^6$ to $6k=6$.\nAnswer: 1,3'] [True, True, True, True]
+FN
+TP
+FN
+TP
+49 ['Thought: The calculation in segment 1 is incorrect.\nAnswer: 1'] [True]
+FN
+50 ['Thought: Both segments seem to be accurate in their computations.\nAnswer: ALL_CORRECT'] [True, False]
+TP
+FP
+51 ['Thought: No errors found in the text segments.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+52 ['Thought: Segment 1 and Segment 2 are contradictory.\nAnswer: 1'] [True, True]
+FN
+TP
+53 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+54 ['Thought: Segment 2 is missing the calculation steps to reach the final answer.\nAnswer: 2'] [True, True]
+TP
+FN
+55 ['Thought: Segment 2 seems to have a typo as "begin{align*}" should be "\\begin{align*}". \nAnswer: 2'] [True, True]
+TP
+FN
+56 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+57 ['Answer: ALL_CORRECT'] [True]
+TP
+58 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+59 ['Thought: Segment 3 contains the final answer after correctly simplifying the expression.  \nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+60 ['Thought: Segment 2 is incorrect.\nAnswer: 2'] [True, True]
+TP
+FN
+61 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+62 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+63 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+64 ['Thought: Segment 2 is correct. \nAnswer: 1'] [True, True]
+FN
+TP
+65 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+66 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+67 ['Thought: Segment 2 has a typo in the LaTeX formatting.\nAnswer: 2'] [True, False]
+TP
+TN
+68 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [False, False, False]
+FP
+FP
+FP
+69 ['Thought: Segment 2 contains incorrect calculations.\nAnswer: 2'] [True, True]
+TP
+FN
+70 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+71 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+72 ['Thought: There are no errors in the text segments provided.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+73 ['Thought: There are no errors in the given text segments.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+74 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+75 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+76 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+77 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, False]
+TP
+TP
+FP
+78 ['Thought: No errors found in any of the segments.\nAnswer: ALL_CORRECT'] [True, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+79 ['Thought: \nSegment 2 - There is a typographical error in the LaTeX markup syntax, which should be corrected as follows: \n\\begin{align*}\n513^2 - 487^2 &= (513+487)(513-487) \\\\\n&= 1000 \\times 26 \\\\\n&= \\boxed{26000}.\n\\end{align*}\n\nAnswer: 2'] [True, True]
+TP
+FN
+80 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+81 ['Thought: The calculation done in segment 1 is incorrect.\nAnswer: 1'] [True]
+FN
+82 ['Thought: All text segments appear to be correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+83 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+84 ['Answer: 7'] [True, True, True, True, True, False, False, False, False, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+TN
+FP
+FP
+FP
+FP
+FP
+85 ['Thought: Segment 1 and 2 contain errors in the calculation of the square roots.\nAnswer: 1,2'] [False, False, False]
+TN
+TN
+FP
+86 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+87 ['Thought: Segment 3 contains an error.\nAnswer: 3'] [True, True, True]
+TP
+TP
+FN
+88 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+89 ['Thought: Segment 1 contains an error as the average of 13, -16, and 6 is calculated incorrectly. Segment 2 and 3 appear to be correct.\nAnswer: 1'] [True, True, True]
+FN
+TP
+TP
+90 ['Answer: ALL_CORRECT'] [True]
+TP
+91 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+92 ['Answer: 1'] [True]
+FN
+93 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+94 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [False, False, False, False]
+FP
+FP
+FP
+FP
+95 ['Thought: There are no errors in the provided segments.\nAnswer: ALL_CORRECT'] [False]
+FP
+96 ['Thought: Segment 2 is empty and does not contain any relevant information to contribute to the final answer.\nAnswer: 2'] [True, True, True]
+TP
+FN
+TP
+97 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+98 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+99 ['Thought: Segment 2 contains a factual error as it provides incorrect reasoning for the sequence of letters.  \nAnswer: 2'] [True, True, False]
+TP
+FN
+FP
+100 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+101 ['Thought: There are no factual errors in the provided text segments.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+102 ['Answer: ALL_CORRECT'] [False]
+FP
+103 ['Thought: Segment 4 is incorrect as the total number of people should have been calculated differently due to an error in segment 3.\nAnswer: 4'] [True, True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+TP
+104 ['Answer: ALL_CORRECT'] [True, True, True, True, False, False, False, False]
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+FP
+105 ['Answer: ALL_CORRECT'] [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+106 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+107 ['Answer: ALL_CORRECT'] [True, True, True, False, False]
+TP
+TP
+TP
+FP
+FP
+108 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+109 ['Thought: Segment 1 contains an error. John actually has 8 periods in the day, not 8 classes.\nAnswer: 1'] [True, True, True, False, False, False, False, False]
+FN
+TP
+TP
+FP
+FP
+FP
+FP
+FP
+110 ['Answer: ALL_CORRECT'] [False, False, False]
+FP
+FP
+FP
+111 ['Answer: 1, 2, 4\n'] [True, False, True, False]
+FN
+TN
+TP
+TN
+112 ['Thought: All text segments appear to be correct.\nAnswer: ALL_CORRECT'] [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+113 ['Answer: ALL_CORRECT'] [True, True, False, True, False]
+TP
+TP
+FP
+TP
+FP
+114 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+115 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+116 ['Answer: 1'] [True, True]
+FN
+TP
+117 ['Answer: 8'] [True, True, True, True, False, False, False, False, False, True, True, True]
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+TN
+FP
+TP
+TP
+TP
+118 ['Thought: Segment 4 contains a factual error.  \nAnswer: 4'] [True, True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+TP
+119 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+120 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+121 ['Thought: Segment 1 incorrectly calculates the height of the second child. If the first child is 6 feet tall and the second child is two inches taller, the second child should be 6 feet 2 inches tall, not 12 feet tall. The subsequent segments are based on this incorrect calculation.\n\nAnswer: 1'] [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TN
+FP
+FP
+FP
+122 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, False, True, True]
+TP
+FP
+TP
+TP
+123 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+124 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+125 ['Answer: 8'] [True, True, True, True, True, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+TN
+126 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+127 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+128 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+129 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+130 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+131 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+132 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+133 ['Thought: Segment 4 contains a factual error.  \nAnswer: 4'] [True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+134 ['Thought: Segment 6 contains a factual error.\nAnswer: 6'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+135 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+136 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+137 ['Thought: All text segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+138 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+139 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+140 ['Thought: There are no factual errors in the given segments.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+141 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+142 ['Thought: \nSegment 1 contains a factual error because the 25% fee is calculated incorrectly.\nSegment 4 does not have any factual errors.\n\nAnswer: 1'] [True, True, True, True]
+FN
+TP
+TP
+TP
+143 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+144 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+145 ['Answer: ALL_CORRECT'] [False, False]
+FP
+FP
+146 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+147 ['Answer: ALL_CORRECT'] [True, True, True, False]
+TP
+TP
+TP
+FP
+148 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+149 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+150 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+151 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+152 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+153 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+154 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+155 ['Answer: 2'] [True, True, True]
+TP
+FN
+TP
+156 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+157 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+158 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+159 ['Thought: Segment 7 is incorrect as it does not correctly calculate the total revenue by adding up the revenue from each type of ball.\nAnswer: 7'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+160 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+161 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+162 ['Thought: Segment 7 contains a factual error as the calculation for the combined weight seems incorrect based on the information provided in the earlier segments.\nAnswer: 7'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+163 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+164 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+165 ['Thought: Segment 3 contains a factual error.\nAnswer: 3'] [True, True, True]
+TP
+TP
+FN
+166 ['Thought: Segment 1 contains a factual error because if Team A scores 4 goals, Team B would score 2 goals fewer, so the correct calculation should be 4 - 2 = 2 goals.\nAnswer: 1'] [True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+167 ['Thought: Segment 1 contains a calculation error where it states that double Rob takes 240 minutes instead of 240 minutes. Segment 2 correctly adds 40 minutes to the correct total time of 240 minutes.\n\nAnswer: 1'] [True, True, True]
+FN
+TP
+TP
+168 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+169 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+170 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+171 ['Answer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+172 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+173 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+174 ['Thought: Segment 6 is incorrect because it states Lorraine gets 60 small buttons from trading her large stickers, which is not in line with the given information about the trading ratios.\nAnswer: 6'] [False, False, False, True, True, True, False]
+FP
+FP
+FP
+TP
+TP
+FN
+FP
+175 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+176 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+177 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+178 ['Thought: \nAll the segments are correct.\n\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+179 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+180 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+181 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+182 ['Thought: All the text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+183 ['Thought: Segment 2 contains a factual error in the subtraction calculation.\nAnswer: 2'] [True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+184 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+185 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+186 ["Thought: Segment 11 seems to contain an error. Let's verify if segments contain factual errors.\nAnswer: 11"] [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FN
+TP
+187 ['Thought: Segment 4 contains a factual error.\nAnswer: 4'] [True, True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+TP
+188 ['Thought: \nAll segments are factually correct.\n\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+189 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+190 ['Thought: The segments provided are correct and do not contain any factual errors.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+191 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+192 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+193 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+194 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+195 ['Answer: ALL_CORRECT'] [True, False, False, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+196 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+197 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+198 ['Thought: Segment 2 contains a factual error in the calculation.\nAnswer: 2'] [True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+199 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+200 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+201 ['Answer: ALL_CORRECT'] [True, False, False, False]
+TP
+FP
+FP
+FP
+202 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, False]
+TP
+TP
+TP
+FP
+203 ['Thought: All segments appear to be factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, False, True]
+TP
+TP
+TP
+FP
+TP
+204 ['Thought: Segment 3 seems to be incomplete and does not provide any specific publication details, so there might be an issue with it.\nAnswer: 3'] [True, True, True, False, True, False, False, False, True]
+TP
+TP
+FN
+FP
+TP
+FP
+FP
+FP
+TP
+205 ["Thought: Segment 1 contains an error as DNA computing can potentially be faster than CPU computation for deep learning. Segment 2 also contains an error as it states that DNA computing has no advantages over CPU computation. Segments 4 and 6 are correct as they provide accurate information about DNA computing's potential advantages and its current position compared to CPU computation. Segments 3 and 5 also correctly mention advantages and challenges related to DNA computing.\nAnswer: 1,2"] [True, True, True, True, True, True]
+FN
+FN
+TP
+TP
+TP
+TP
+206 ['Answer: ALL_CORRECT'] [True, False, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+FP
+207 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+208 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, False, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+209 ['Thought: None of the segments contain factual errors.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+210 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+211 ['Thought: All the text segments provide accurate information about backwards epigenetic inheritance.\nAnswer: ALL_CORRECT'] [False, False, False, False]
+FP
+FP
+FP
+FP
+212 ['Thought: Segment 1 accurately defines RLHF. Segment 2 accurately explains Response Length. Segment 5 accurately describes History Frequency. Segment 7 accurately describes the use of History Frequency.  \nAnswer: ALL_CORRECT'] [False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+213 ['Thought: Segments 1 and 6 contain errors as they indicate that genes can code for different types of stars, which is scientifically incorrect.\nAnswer: 1,6'] [True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+FN
+214 ['Answer: 3,4'] [True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+FN
+TP
+TP
+TP
+TP
+215 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+216 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+217 ['Thought: All the segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+218 ['Thought: Segment 5 contains a factual error as Richard Feynman was diagnosed with cancer in the 1980s, not the 1970s.  \nAnswer: 5'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+FN
+219 ['Thought: All text segments are correct.\nAnswer: ALL_CORRECT'] [False, True, False, True]
+FP
+TP
+FP
+TP
+220 ['Answer: 3,5,9  \nThought:  \nFor Segment 3, the statement is incomplete and lacks specific information about advantages.  \nFor Segment 5, the efficiency comparison between fusion and fission is not provided in the segment.  \nFor Segment 9, safety is repeated in the list of advantages without providing additional information.'] [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+TP
+FN
+TP
+221 ['Answer: 3,5\n'] [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+222 ['Thought: All text segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+223 ['Thought: All text segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+224 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+225 ['Answer: 3, 5, 9\n'] [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+TP
+FN
+TP
+226 ['Answer: ALL_CORRECT'] [False]
+FP
+227 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [False, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+228 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+229 ['Thought: Segment 1 mentions that Chatgpt does not use a specific database technology, which is correct. Segment 2 talks about machine learning algorithms, not database technology. Segment 3 discusses chatbot platforms using databases, not specifically Chatgpt.\nAnswer: 2'] [True, True, True]
+TP
+FN
+TP
+230 ['Thought: All the segments are providing accurate information about papers related to constrained decoding.\nAnswer: ALL_CORRECT'] [True, False, False, True, False, False, True, False, False, True, False, False, True, False, False]
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+231 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+232 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [False, False, False, False]
+FP
+FP
+FP
+FP
+233 ["Thought: \n- Segment 1 discusses Graham's law of gaseous diffusion.\n- Segment 2 explains the concept further based on the law.\n- Segment 3 provides examples of applications of the law.\n\nAnswer: ALL_CORRECT"] [True, True, True]
+TP
+TP
+TP
+234 ['Thought: All the text segments seem to accurately describe the process of electrons jumping from one orbital to another without going through intermediate orbitals.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+235 ['Thought: All the segments appear to provide accurate information regarding the distance between the Earth and the Moon.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+236 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+237 ['Thought: All the text segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+238 ['Thought: All the text segments correctly describe the difference between model parallelism and data parallelism in machine learning.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+239 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+240 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+241 ['Answer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+242 ['Answer: ALL_CORRECT'] [True]
+TP
+243 ['Thought: There is an error in segment 1.\nAnswer: 1'] [False, False]
+TN
+FP
+244 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+245 ['Answer: ALL_CORRECT'] [False]
+FP
+246 ['Thought: All text segments appear to provide factual information about the flight of bumblebees.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+247 ['Thought: No factual errors found in the text segments.\nAnswer: ALL_CORRECT'] [False, True, True, True]
+FP
+TP
+TP
+TP
+248 ['Thought: All text segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, False, True, True]
+TP
+TP
+FP
+TP
+TP
+249 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+250 ['Answer: 3, 5, 7, 9, 11'] [True, False, True, False, True, False, True, True, True, False, True, False, True, False, True]
+TP
+FP
+FN
+FP
+FN
+FP
+FN
+TP
+FN
+FP
+FN
+FP
+TP
+FP
+TP
+251 ['Answer: ALL_CORRECT'] [True]
+TP
+252 ['Answer: 6, 9, 11'] [False, True, True, True, True, True, True, True, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+FN
+TP
+TP
+FN
+TP
+FN
+TP
+TP
+253 ['Answer: 3'] [True, True, True, True]
+TP
+TP
+FN
+TP
+254 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+255 ['Thought: Segment 4 contains a factual error as it implies that the density of a gas like air can change significantly during flow, which is not typically the case.\nAnswer: 4'] [True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+256 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+257 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+258 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+259 ['Thought: All the text segments appear to be factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+260 ['Thought: All the segments appear to be factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+261 ['Thought: The segments do not contain any factual errors.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+262 ['Thought: All the segments contain accurate information.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+263 ['Thought: The United States is indeed the country with the highest number of nuclear power plants, with 93 operating reactors, not 94 as mentioned in segment 1. \nAnswer: 1'] [False, True]
+TN
+TP
+264 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+265 ['Thought: All the segments provide accurate information about the differences in design philosophy between American and European trains, with mention of cowcatchers on American trains and snowplows on some European trains.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+266 ['Thought: All the segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, False, False, False]
+TP
+TP
+FP
+FP
+FP
+267 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+268 ['Thought: Segment 6 contains a factual error. Veins do not appear blue due to the absorption of more blue light than red light, but rather due to the way light is scattered in the skin.\nAnswer: 6'] [True, True, True, True, False, False, True]
+TP
+TP
+TP
+TP
+FP
+TN
+TP
+269 ['Thought: Segment 3 contains factual errors as it describes the relationship as not biologically incestuous when this scenario does not involve any incest at all. Segment 4 contains a factual error in stating that a marriage between a person and their deceased spouse\'s mother is referred to as a "levirate marriage." This is incorrect; a levirate marriage is specifically when a man marries his brother\'s widow. Segment 5 does not contain any factual errors.\nAnswer: 3,4'] [False, True, False, True, True]
+FP
+TP
+TN
+FN
+TP
+270 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+271 ['Thought: Segment 1 states that it was not illegal for black people to attend the University of Alabama or any other university based on their race in 1973, which is correct based on historical facts.\n\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+272 ['Thought: Segment 3 correctly states that it was not illegal for black people to attend the University of Alabama in 1984. However, there are no factual errors in Segments 1, 2, 4, and 5.\nAnswer: 3'] [True, True, True, True, True]
+TP
+TP
+FN
+TP
+TP
+273 ['Thought: All the segments seem factually correct.\nAnswer: ALL_CORRECT'] [False, True, False, True]
+FP
+TP
+FP
+TP
+274 ['Answer: ALL_CORRECT'] [True, False, False]
+TP
+FP
+FP
+275 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [False, True, False]
+FP
+TP
+FP
+276 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, False, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+277 ['Thought: Segment 2 contains a factual error.\nAnswer: 2'] [False, True]
+FP
+FN
+278 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [False, True, True, True]
+FP
+TP
+TP
+TP
+279 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [False, False, False, True, True]
+FP
+FP
+FP
+TP
+TP
+280 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [False, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+TP
+281 ['Thought: Both segments are correct as they both state that "kabura" does not have a meaning in Polish and is not a Polish word.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+282 ['Answer: ALL_CORRECT'] [True]
+TP
+283 ['Answer: 1'] [True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+284 ['Thought: Segment 2 is incomplete and does not provide the steps required to make perfect carbonara.\n\nAnswer: 2'] [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+285 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [False, False, True, True]
+FP
+FP
+TP
+TP
+286 ["Thought: Segment 3 is correct as it acknowledges the lack of information about Eise Eisinga's family life. \nAnswer: ALL_CORRECT"] [True, False, False]
+TP
+FP
+FP
+287 ['Thought: All the segments contain factual information.\nAnswer: ALL_CORRECT'] [True, False, False, False]
+TP
+FP
+FP
+FP
+288 ['Thought: Segment 1 contains a factual error. Argentina has won the FIFA World Cup twice, not two times.\nAnswer: 1'] [False, True, False, False]
+TN
+TP
+FP
+FP
+289 ["Thought: Segment 2 is incomplete and missing information on the elements of breach of contract. Segments 1 and 2 don't contain case citations as requested in the question. Segments 3 and 4 also don't provide specific case citations as required for the question.\nAnswer: 2,3,4"] [True, True, True, False, True, False, False, True, False]
+TP
+FN
+FN
+TN
+TP
+FP
+FP
+TP
+FP
+290 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+291 ['Thought: Segment 6 contains factual errors as it states that typically solar and lunar eclipses occur in pairs separated by about two weeks, but this is not entirely accurate as the timing can vary.  \nAnswer: 6'] [False, True, True, True, True, True, True, False]
+FP
+TP
+TP
+TP
+TP
+FN
+TP
+FP
+292 ['Thought: All the text segments appear to be factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+293 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+294 ['Answer: ALL_CORRECT'] [False]
+FP
+295 ['Thought: Both text segments are accurate and do not contain any factual errors.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+296 ['Thought: Both segments are correct as there have been no female presidents of the United States, and the country has only had male presidents.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+297 ['Thought: The information provided in both segments is factually accurate.\nAnswer: ALL_CORRECT'] [False, True]
+FP
+TP
+298 ['Answer: ALL_CORRECT'] [False]
+FP
+299 ['Answer: 4,6,8,10'] [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+FN
+TP
+FN
+TP
+FN
+TP
+FN
+TP
+300 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [False, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+301 ['Thought: There are factual errors in segments 1, 3, 5, and 7 as they are empty and do not provide any information about famous graduates of the University of Leicester.\nAnswer: 1,3,5,7'] [True, False, True, False, True, False, True, False, True, False, True, True, True, False, True, False, True, False, True, False]
+FN
+FP
+FN
+FP
+FN
+FP
+FN
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+FP
+TP
+FP
+302 ['Answer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+303 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, False, True, False, True, True, True, False, True, True]
+TP
+TP
+TP
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+304 ['Thought: All the provided text segments are factually accurate.\nAnswer: ALL_CORRECT'] [False, False, False]
+FP
+FP
+FP
+305 ['Thought: Segment 1 contains a factual error as fortune cookies actually originated in California, not Japan. Segment 5 is correct in stating that fortune cookies were created in America, but it does not specify that it was in California.  \nAnswer: 1'] [True, False, True, True, False]
+FN
+FP
+TP
+TP
+FP
+306 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+307 ['Thought: All text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+308 ['Answer: 1'] [True]
+FN
+309 ['Thought: Segment 1 contains a factual error as there were actually US presidents shorter than 5 feet.\nAnswer: 1'] [True, True]
+FN
+TP
+310 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+311 ['Thought: This is a straightforward fact-checking task based on historical attribution of a quote.\nAnswer: ALL_CORRECT'] [True, False]
+TP
+FP
+312 ['Answer: ALL_CORRECT'] [False]
+FP
+313 ['Answer: ALL_CORRECT'] [True]
+TP
+314 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+315 ['Answer: ALL_CORRECT'] [False, True, False, False, False, False, False, False, False]
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+316 ['Thought: All the text segments appear to be factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+317 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+318 ['Thought: All text segments are factually accurate.\nAnswer: ALL_CORRECT'] [True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+319 ['Answer: ALL_CORRECT'] [False, False, True]
+FP
+FP
+TP
+320 ['Answer: ALL_CORRECT'] [False]
+FP
+321 ['Answer: ALL_CORRECT'] [False]
+FP
+322 ['Thought: All segments are in the correct order and do not contain factual errors.\nAnswer: ALL_CORRECT'] [True, False, False, False, False]
+TP
+FP
+FP
+FP
+FP
+323 ['Answer: ALL_CORRECT'] [False]
+FP
+324 ['Thought: All the text segments appear to be factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True]
+TP
+TP
+TP
+TP
+325 ['Thought: All the segments appear to be providing accurate information regarding the number of speakers of different languages.\nAnswer: ALL_CORRECT'] [False, False, False, True]
+FP
+FP
+FP
+TP
+326 ['Answer: ALL_CORRECT'] [False]
+FP
+327 ['Answer: ALL_CORRECT'] [True]
+TP
+328 ['Answer: ALL_CORRECT'] [True]
+TP
+329 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, False]
+TP
+TP
+FP
+330 ['Answer: ALL_CORRECT'] [True]
+TP
+331 ['Answer: ALL_CORRECT'] [True]
+TP
+332 ['Answer: ALL_CORRECT'] [True]
+TP
+333 ['Thought: The statement in segment 1 is factual and accurate.\nAnswer: ALL_CORRECT'] [True]
+TP
+334 ['Answer: ALL_CORRECT'] [True]
+TP
+335 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+336 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+337 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+338 ['Answer: ALL_CORRECT'] [True]
+TP
+339 ['Thought: Both segments are correct.\nAnswer: ALL_CORRECT'] [False, False]
+FP
+FP
+340 ['Thought: Both text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+341 ['Answer: ALL_CORRECT'] [True]
+TP
+342 ['Thought: All segments are correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+343 ['Answer: ALL_CORRECT'] [True]
+TP
+344 ['Thought: All segments are factually correct.\nAnswer: ALL_CORRECT'] [True, False]
+TP
+FP
+345 ['Answer: ALL_CORRECT'] [False]
+FP
+346 ['Answer: ALL_CORRECT'] [False]
+FP
+347 ['Thought: The information in both segments appears to be accurate.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+348 ['Answer: ALL_CORRECT'] [True]
+TP
+349 ['Thought: All the text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True]
+TP
+TP
+350 ['Answer: ALL_CORRECT'] [False]
+FP
+351 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+352 ['Answer: ALL_CORRECT'] [True]
+TP
+353 ['Answer: ALL_CORRECT'] [True]
+TP
+354 ['Answer: ALL_CORRECT'] [False]
+FP
+355 ['Answer: ALL_CORRECT'] [True, True, False, False, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+356 ['Thought: All the text segments appear to be factually accurate and consistent with the bio of Albert Bates.\n\nAnswer: ALL_CORRECT'] [True, True, False, True, True, True, False, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+357 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, False, True, True, False, False, False, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+358 ['Answer: ALL_CORRECT'] [True, False, False, False, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+359 ['Answer: ALL_CORRECT'] [True, False, True, False, False, False, False, False, False, True, False, False, False, True, True, True, True, True, True, True, True, False, False, False]
+TP
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+360 ['Answer: ALL_CORRECT'] [True, False, False, False, True, True, True, True, True, False, False, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+361 ['Answer: ALL_CORRECT'] [True, False, True, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+FP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+362 ['Thought: Segment 3 does not contribute any information and can be omitted. Segment 8 is incomplete and does not provide any factual errors.\n\nAnswer: 3'] [True, True, True, True, True, True, True, True, True, True, True, True, True, False, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+363 ['Thought: Segment 3 incorrectly states the population of Niort as around 60,000 people, while segment 2 mentions the population of the entire arrondissement as around 281,047 inhabitants, which includes Niort. This creates a contradiction in the population figures presented.  \nAnswer: 3'] [True, False, True, True, True, True, True, True, True, True, True]
+TP
+FP
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+364 ['Thought: All the text segments appear to be factually accurate.\nAnswer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+365 ['Answer: 1'] [True, False, False, False, False, False, False, False, False, False, False, False, False]
+FN
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+366 ['Thought: Segment 4 contains specific population data that may not be accurate anymore, given the mention of a knowledge cutoff in September 2021. The rest of the segments provide general information about the Canton of Mirambeau with no clear factual errors.\n\nAnswer: 4'] [True, True, True, False, True, False, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TN
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+367 ['Thought: No factual errors were found in the segments.\n\nAnswer: ALL_CORRECT'] [True, True, False, True, True, True, True, True, True, True, True, True]
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+368 ['Answer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+369 ['Answer: ALL_CORRECT'] [True, False, True, False, True, True, False, False, False, True, True, False, True]
+TP
+FP
+TP
+FP
+TP
+TP
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+370 ['Thought: All the text segments provide accurate information about Miran Tepeš.\nAnswer: ALL_CORRECT'] [True, False, False, True, True, True, False, True, True, True, True, False]
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+371 ['Answer: ALL_CORRECT'] [False, False, False, True, False, False, True, False, False, True, True, True, True, True, True, True]
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+372 ['Thought: Segment 3 contains a factual error as it states that the population of Tapay District was not readily available, which might not be accurate if there have been new sources of information since September 2021. \nAnswer: 3'] [False, False, False, True, True]
+FP
+FP
+TN
+TP
+TP
+373 ['Thought: Segment 3 is missing content, and there are no factual errors in the other segments.\nAnswer: 3'] [True, True, True, False, False, False, True, False, False, True, False, False, True, False, False, False, True, True, True, True]
+TP
+TP
+FN
+FP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+374 ['Answer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+375 ['Answer: ALL_CORRECT'] [True, False, False, True, False, True, True, True, True]
+TP
+FP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+376 ['Thought: All the text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+TP
+TP
+TP
+TP
+TP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+377 ['Answer: ALL_CORRECT'] [True, False, False, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+FP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+378 ['Answer: ALL_CORRECT'] [False, True, False, True, True, True, True, False, False, True, True, True, False, True, True, False, True, True]
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+FP
+TP
+TP
+379 ['Answer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+380 ['Thought: Segment 5 provides an inaccurate population figure for Totsky District.\nAnswer: 5'] [True, True, False, True, False, True, True, True, True, True]
+TP
+TP
+FP
+TP
+TN
+TP
+TP
+TP
+TP
+TP
+381 ['Thought: All the segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, False, False, True, False, True, True, True, True, True, True]
+TP
+TP
+TP
+FP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+382 ['Answer: ALL_CORRECT'] [True, False, True, False, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+383 ['Answer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+384 ['Answer: ALL_CORRECT'] [True, False, False, True, True, True, False, True, True, True, True, True]
+TP
+FP
+FP
+TP
+TP
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+385 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+386 ['Answer: ALL_CORRECT'] [False, True, True, True, True, True, True, True, True, True, True, True]
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+387 ['Answer: ALL_CORRECT'] [True, False, False, False, False, True, True, False, True, True, True, False, False, True, True]
+TP
+FP
+FP
+FP
+FP
+TP
+TP
+FP
+TP
+TP
+TP
+FP
+FP
+TP
+TP
+388 ['Answer: 1, 3, 5, 7, 9'] [True, True, True, True, True, True, True, True, True, True]
+FN
+TP
+FN
+TP
+FN
+TP
+FN
+TP
+FN
+TP
+389 ['Thought: All the text segments are factually correct.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+390 ['Thought: All the segments seem to provide accurate and relevant information without factual errors.\n\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+391 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+392 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+393 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+394 ['Thought: All text segments appear to be factually accurate and opinion-based.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+395 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+396 ['Answer: ALL_CORRECT'] [False, False, False, False, False, False, False, False, False]
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+FP
+397 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+398 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+399 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+400 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+401 ['Thought: All the text segments appear to be factually accurate based on the general evaluation of Amazon and Etsy presented in the context of user experience, customer service, and overall value for buyers and sellers.\n\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+402 ['Thought: All text segments appear to be factually accurate without errors.\n\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+403 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+404 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+405 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+406 ['Thought: All the segments appear to be factually correct.\n\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+407 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+408 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+409 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+410 ['Answer: ALL_CORRECT'] [True, True]
+TP
+TP
+411 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+412 ['Answer: ALL_CORRECT\n\n'] [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+413 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+414 ['Answer: ALL_CORRECT'] [True, False, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+FP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+415 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+416 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+417 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+418 ['Answer: 1'] [True, True, True, True, True, True, True, True, True]
+FN
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+419 ['Thought: All the text segments appear to be offering advice and encouragement without any factual errors.\nAnswer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+420 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+421 ['Thought: All the segments are correct.\nAnswer: ALL_CORRECT'] [True, True, True]
+TP
+TP
+TP
+422 ['Answer: ALL_CORRECT'] [True, True, True, True, True, True]
+TP
+TP
+TP
+TP
+TP
+TP
+ALL{'class 1': 0.0547945205479452, 'class 0': 0.944794952681388, 'true num': 1902, 'false num': 511, 'balanced': 0.4997947366146666, 'TN,TP,FN,FP': (28, 1797, 105, 483), 'P': 0.29407894736842103, 'R': 0.844794952681388, 'F1': 0.3296987087517934}
+
+wk{'class 1': 0.053763440860215055, 'class 0': 0.9166666666666666, 'true num': 228, 'false num': 93, 'balanced': 0.4852150537634408, 'TN,TP,FN,FP': (5, 209, 19, 88), 'P': 0.35185185185185186, 'R': 0.8166666666666666, 'F1': 0.3980952380952381}
+
+sci{'class 1': 0.017543859649122806, 'class 0': 0.9035714285714286, 'true num': 280, 'false num': 57, 'balanced': 0.46055764411027567, 'TN,TP,FN,FP': (1, 253, 27, 56), 'P': 0.20938511326860844, 'R': 0.7035714285714286, 'F1': 0.2295415959252971}
+
+math{'class 1': 0.19718309859154928, 'class 0': 0.8781512605042017, 'true num': 238, 'false num': 71, 'balanced': 0.5376671795478755, 'TN,TP,FN,FP': (14, 209, 29, 57), 'P': 0.29285714285714285, 'R': 0.7781512605042017, 'F1': 0.3146825396825397}
+
+reasoning{'class 1': 0.09090909090909091, 'class 0': 0.9558498896247241, 'true num': 453, 'false num': 55, 'balanced': 0.5233794902669074, 'TN,TP,FN,FP': (5, 433, 20, 50), 'P': 0.24824016563146996, 'R': 0.6558498896247241, 'F1': 0.2626068376068376}
+
+writing_rec{'class 1': 0.01276595744680851, 'class 0': 0.9857752489331437, 'true num': 703, 'false num': 235, 'balanced': 0.4992706031899761, 'TN,TP,FN,FP': (3, 693, 10, 232), 'P': 0.2745945945945946, 'R': 0.7857752489331437, 'F1': 0.2256756756756757}
